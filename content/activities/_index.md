@@ -1,11 +1,9 @@
 ---
 title: "Activities"
-type: post
+type: page
 ---
 
 ## Zenn
-
-[![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)[![Articles](https://badgen.org/img/zenn/issy/articles?style=plastic)](https://zenn.dev/issy)[![Books](https://badgen.org/img/zenn/issy/books?style=plastic)](https://zenn.dev/issy?tab=books)
 
 <!-- zenn start -->
 - Sep 04 - [【実例】AWS WAFのIP制限を自動化！S3アップロードだけでホワイトリストを瞬時に更新！](https://zenn.dev/issy/articles/aws-waf-ip-whitelist-auto-updater)
