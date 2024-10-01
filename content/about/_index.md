@@ -1,6 +1,6 @@
 ---
 title: "About"
-type: page
+type: post
 ---
 
 ## Profile<!-- omit in toc -->
