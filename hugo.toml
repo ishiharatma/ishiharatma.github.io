@@ -39,7 +39,7 @@ enableRobotsTXT = true
     {name = "twitter", url = "https://twitter.com/issy55829654"},
     {name = "github", url = "https://github.com/ishiharatma"},
     {name = "linkedin", url = "https://www.linkedin.com/in/tomoaki-ishihara-a48232203/"},
-    // {name = "email", url = "mailto:xxx"}
+    {name = "email", url = "mailto:xxx"}
   ]
   metaKeywords = ["ishiharatma", "issy", "portfolio"]
 
