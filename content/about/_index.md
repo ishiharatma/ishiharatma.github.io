@@ -17,21 +17,14 @@ type: page
 - [SPECIAL SKILLS](#special-skills)
 - [HONORS \& AWARDS](#honors--awards)
 - [QUALIFICATIONS](#qualifications)
-- [SKILLS](#skills)
-  - [OS](#os)
-  - [Langs](#langs)
-  - [Cloud](#cloud)
-  - [Database](#database)
-  - [Framework and etc..](#framework-and-etc)
+- [EDUCATION](#education)
 - [WORK EXPERIENCE](#work-experience)
-  - [NTT DATA CCS CORPORATIONS (2004/04～)](#ntt-data-ccs-corporations-200404)
+  - [NTT DATA CCS CORPORATIONS (April, 2004 - present)](#ntt-data-ccs-corporations-april-2004---present)
 - [INTEREST](#interest)
 - [LINKS](#links)
   - [Zenn](#zenn)
   - [AWS 勉強会資料公開](#aws-勉強会資料公開)
   - [GitHub](#github)
-  - [My Repositories(AWS)](#my-repositoriesaws)
-  - [My Repositories(Ohters)](#my-repositoriesohters)
 - [ADDITIONAL INFORMATION](#additional-information)
 
 ---
@@ -115,11 +108,13 @@ type: page
 
 ---
 
+## EDUCATION
+
+---
+
 ## WORK EXPERIENCE
 
-### NTT DATA CCS CORPORATIONS (2004/04～)
-
-TBA
+### <u>NTT DATA CCS CORPORATIONS (April, 2004 - present)</u>
 
 ---
 
@@ -142,7 +137,6 @@ TBA
 ### GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiharatma&layout=compact)](https://github.com/ishiharatma/)
-
 
 ---
 
