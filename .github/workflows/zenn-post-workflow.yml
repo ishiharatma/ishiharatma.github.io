@@ -17,7 +17,7 @@ jobs:
         id: zenn
         with:
           url: 'https://zenn.dev/issy/feed'
-          file: './public/content/activities/_index.md'
+          file: './content/activities/_index.md'
           max_entry: 20
           start_flag: "<!-- zenn start -->"
           end_flag: "<!-- zenn end -->"
