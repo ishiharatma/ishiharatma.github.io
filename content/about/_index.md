@@ -31,19 +31,28 @@ type: page
 
 ## SPECIAL SKILLS
 
-- プロジェクト運営の能力
+- プロジェクト運営の能力 / Project Management Skills
   - 職種や技術領域をまたいだ、全体最適を目指した問題解決とプロジェクト推進
+    - Cross-functional problem-solving and project advancement aimed at overall optimization across different job types and technical domains.
   - Backlog / Redmine を用いたタスクの効率的な管理と、Slack / Teams などによるチーム内、顧客とのスムーズな非同期コミュニケーション
-- 上流工程の経験
+    - Efficient task management using Backlog / Redmine, and smooth asynchronous communication within teams and with clients using Slack / Teams
+- 上流工程の経験 / Experience in Upstream Processes
   - 現行システムの調査分析、要件定義、移行計画書の作成（変更仕様の確定）
-- 開発経験
+    - Analysis of existing systems, requirements definition, creation of migration plans (finalization of change specifications)
+- 開発経験 / Development Experience
   - Amazon Web Services(AWS) を活用した小～中規模のWebアプリケーションシステムの設計
+    - Design of small to medium-scale web application systems utilizing Amazon Web Services (AWS)
   - AWS CDK および AWS CloudFormation を使用した Infrastructure as Code（IaC） による環境構築の自動化
+    - Automation of environment setup using Infrastructure as Code (IaC) with AWS CDK and AWS CloudFormation
   - AWS CodeCommit, CodePipeline, CodeBuild, CodeDeploy を用いた CI/CD 環境の構築、メンテナンス
+    - Building and maintenance of CI/CD environments using AWS CodeCommit, CodePipeline, CodeBuild, CodeDeploy
   - 本番環境における Docker の経験
+    - Experience with Docker in production environments
   - PostgreSQL, MySQL、Oracle 等の RDB の設計、パフォーマンス改善、管理
-- その他
+    - Design, performance improvement, and management of RDBs such as PostgreSQL, MySQL, and Oracle
+- その他 / Other
   - 勉強会、社内学習のコミュニティ形成
+    - Formation of study groups and in-house learning communities
 
 ---
 
@@ -73,7 +82,7 @@ type: page
   - [AWS Certified Developer – Associate (February 15, 2023)](https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url)
   - [AWS Certified Cloud Practitioner (November 25, 2022)](https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url)
 
-- AWS 認定 Specialty
+- AWS Certified Specialty
   - [AWS Certified Security – Specialty (January 22, 2024)](https://www.credly.com/badges/7fa93a22-d41f-4bb4-b448-6a2eed1bd848/public_url)
   - [AWS Certified Database – Specialty (February 15, 2024)](https://www.credly.com/badges/57be108d-6997-4334-aa63-257c4fb43a7e/public_url)
   - [AWS Certified Data Analytics – Specialty (February 29, 2024)](https://www.credly.com/badges/84364214-cac5-4050-841f-6ffac4f7f72f/public_url)
@@ -97,7 +106,8 @@ type: page
   - ORACLE MASTER Bronze Oracle Database 10g (December 9, 2011)
   - Oracle Silver Fellow (December 1, 2004)
   - ORACLE MASTER Silver
-- Microsoft Azure認定資格
+
+- Microsoft Certified
   - [Azure Solutions Architect Expert (February 25, 2022)](https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/2481EDFDC897A1C8?sharingId=EC4CFA5845D2040B)
   - [DevOps Engineer Expert (April 07, 2022)](https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/CD163B7320AF150B?sharingId=EC4CFA5845D2040B)
   - [Azure Security Engineer Associate (July 29, 2022)](https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/AD0F409D98F08F4B?sharingId=EC4CFA5845D2040B)
@@ -121,8 +131,11 @@ type: page
 ## INTEREST
 
 - バックエンド・インフラだけでなく、新しい分野・技術への興味関心が高く、学習しながらアウトプットすることを意識しています
+  - High interest in new fields and technologies beyond backend and infrastructure, focusing on learning and producing outputs simultaneously
 - フロントエンドの技術向上に力を入れています
-- UI / UX を学ぶために書籍を読んだり、オンラインの勉強会へ参加しています
+  - Putting effort into improving frontend technology skills
+- UI/UXの理解を深めるため、専門書の精読や業界のオンラインセミナーに積極的に参加しています。
+  - To deepen my understanding of UI/UX, I actively engage in in-depth reading of specialized books and participate in industry online seminars
 
 ---
 
@@ -132,7 +145,7 @@ type: page
 
 [![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)[![Articles](https://badgen.org/img/zenn/issy/articles?style=plastic)](https://zenn.dev/issy)[![Books](https://badgen.org/img/zenn/issy/books?style=plastic)](https://zenn.dev/issy?tab=books)
 
-### [AWS 勉強会資料公開](https://ishiharatma.github.io/aws-study/)
+### [AWS 勉強会資料公開 / AWS Study Group Materials](https://ishiharatma.github.io/aws-study/)
 
 ### GitHub
 
