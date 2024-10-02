@@ -23,7 +23,7 @@ type: page
 - [INTEREST](#interest)
 - [LINKS](#links)
   - [Zenn](#zenn)
-  - [AWS 勉強会資料公開](#aws-勉強会資料公開)
+  - [AWS 勉強会資料公開 / AWS Study Group Materials](#aws-勉強会資料公開--aws-study-group-materials)
   - [GitHub](#github)
 - [ADDITIONAL INFORMATION](#additional-information)
 
@@ -145,7 +145,9 @@ type: page
 
 [![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)[![Articles](https://badgen.org/img/zenn/issy/articles?style=plastic)](https://zenn.dev/issy)[![Books](https://badgen.org/img/zenn/issy/books?style=plastic)](https://zenn.dev/issy?tab=books)
 
-### [AWS 勉強会資料公開 / AWS Study Group Materials](https://ishiharatma.github.io/aws-study/)
+### AWS 勉強会資料公開 / AWS Study Group Materials
+
+[AWS 勉強会資料公開 / AWS Study Group Materials](https://ishiharatma.github.io/aws-study/)
 
 ### GitHub
 
