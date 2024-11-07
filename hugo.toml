@@ -1,7 +1,7 @@
 baseURL = "https://ishiharatma.github.io/"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "issy site"
+title = "issy's site"
 theme = "gokarna"
 
 # Automatically generate robots.txt
