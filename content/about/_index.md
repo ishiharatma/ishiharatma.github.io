@@ -80,16 +80,17 @@ type: page
   - [AWS Certified Solutions Architect – Associate (August 24, 2022)](https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url)
   - [AWS Certified SysOps Administrator – Associate (April 27, 2023)](https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url)
   - [AWS Certified Developer – Associate (February 15, 2023)](https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url)
+  - [AWS Certified Machine Learning Engineer - Associate Early Adopter (October 28, 2024)](https://www.credly.com/badges/ba825004-8b1a-49f8-a266-87d6b3fc8797/public_url)
   - [AWS Certified Cloud Practitioner (November 25, 2022)](https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url)
-
+  - [AWS Certified AI Practitioner Early Adopter (September 12, 2024)](https://www.credly.com/badges/7d821faa-b147-4a75-99f6-d31b8636786a/public_url)
 - AWS Certified Specialty
   - [AWS Certified Security – Specialty (January 22, 2024)](https://www.credly.com/badges/7fa93a22-d41f-4bb4-b448-6a2eed1bd848/public_url)
-  - [AWS Certified Database – Specialty (February 15, 2024)](https://www.credly.com/badges/57be108d-6997-4334-aa63-257c4fb43a7e/public_url)
-  - [AWS Certified Data Analytics – Specialty (February 29, 2024)](https://www.credly.com/badges/84364214-cac5-4050-841f-6ffac4f7f72f/public_url)
   - [AWS Certified Advanced Networking – Specialty (March 7, 2024)](https://www.credly.com/badges/89723402-7735-417d-a106-f710c2f3b598/public_url)
   - [AWS Certified Machine Learning – Specialty (March 15, 2024)](https://www.credly.com/badges/04670fe9-97f9-4762-b8ed-26ab5dc2faeb/public_url)
+- AWS Certified Specialty(Retired)
+  - [AWS Certified Database – Specialty (February 15, 2024)](https://www.credly.com/badges/57be108d-6997-4334-aa63-257c4fb43a7e/public_url)
+  - [AWS Certified Data Analytics – Specialty (February 29, 2024)](https://www.credly.com/badges/84364214-cac5-4050-841f-6ffac4f7f72f/public_url)
   - [AWS Certified SAP on AWS - Specialty (March 19, 2024)](https://www.credly.com/badges/f5977f16-8340-4fe7-b767-f4332a3b50aa/public_url)
-
 - [AWS Cloud Quest](https://aws.amazon.com/jp/training/digital/aws-cloud-quest/)
   - [AWS Cloud Quest: Cloud Practitioner (January 18, 2024)](https://www.credly.com/badges/b967f1e4-9e6e-46d6-9ffb-cdecb437c761/public_url)
   - [AWS Cloud Quest: Security (January 19, 2022)](https://www.credly.com/badges/028ffc84-6d7a-4429-844a-8221ac22f2d8/public_url)
