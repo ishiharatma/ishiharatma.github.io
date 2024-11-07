@@ -56,10 +56,10 @@ type: page
     - Formation of study groups and in-house learning communities
   - Zennでの執筆活動（2024年11月現在、記事数56、月間平均閲覧数20,000）
     - Technical writing on Zenn (As of November 2024: 56 articles with 20,000 average monthly views)
-  - 社内でAWS勉強会の主催（2022年10月から月１回１時間、2024年11月現在の開催実績：２５回、１５名）
+  - 社内AWS勉強会の主催（2022年10月から月１回１時間、2024年11月現在の開催実績：２５回、１５名）
     - Organizing monthly AWS study sessions within the company (One-hour sessions held monthly since October 2022, 25 sessions completed with 15 regular participants as of November 2024)
-  - 社内でのAWS TopEngineersによる継続的な技術力向上のモチベーションに関する講演会の企画と実施（参加者１００名以上）
-    - Planning and conducting motivational technical seminars by AWS Top Engineers for continuous skill improvement within the company (Over 100 participants)
+  - AWS TopEngineersによる継続的な技術力向上とモチベーションの維持というテーマでの社内講演会の企画と実施（参加者１００名以上）
+    - Planning and conducting in-house seminars featuring AWS Top Engineers on the theme of sustained technical growth and motivation maintenance (Over 100 participants)
   - GitHubでAWSリファレンスアーキテクチャとCDKでの実装例の公開
     - Publishing AWS reference architectures and CDK implementation examples on GitHub
 ---
