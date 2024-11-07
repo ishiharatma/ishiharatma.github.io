@@ -42,6 +42,7 @@ type: page
 - 開発経験 / Development Experience
   - Amazon Web Services(AWS) を活用した小～中規模のWebアプリケーションシステムの設計
     - Design of small to medium-scale web application systems utilizing Amazon Web Services (AWS)
+    - Amazon CloudFront / AWS WAF / AWS Lambda / Amazon API Gateway / AWS ECS / AWS Fargate / Amazon Aurora / Amazon Athena etc...
   - AWS CDK および AWS CloudFormation を使用した Infrastructure as Code（IaC） による環境構築の自動化
     - Automation of environment setup using Infrastructure as Code (IaC) with AWS CDK and AWS CloudFormation
   - AWS CodeCommit, CodePipeline, CodeBuild, CodeDeploy を用いた CI/CD 環境の構築、メンテナンス
@@ -53,7 +54,14 @@ type: page
 - その他 / Other
   - 勉強会、社内学習のコミュニティ形成
     - Formation of study groups and in-house learning communities
-
+  - Zennでの執筆活動（2024年11月現在、記事数56、月間平均閲覧数20,000）
+    - Technical writing on Zenn (As of November 2024: 56 articles with 20,000 average monthly views)
+  - 社内でAWS勉強会の主催（2022年10月から月１回１時間、2024年11月現在の開催実績：２５回、１５名）
+    - Organizing monthly AWS study sessions within the company (One-hour sessions held monthly since October 2022, 25 sessions completed with 15 regular participants as of November 2024)
+  - 社内でのAWS TopEngineersによる継続的な技術力向上のモチベーションに関する講演会の企画と実施（参加者１００名以上）
+    - Planning and conducting motivational technical seminars by AWS Top Engineers for continuous skill improvement within the company (Over 100 participants)
+  - GitHubでAWSリファレンスアーキテクチャとCDKでの実装例の公開
+    - Publishing AWS reference architectures and CDK implementation examples on GitHub
 ---
 
 ## HONORS & AWARDS
