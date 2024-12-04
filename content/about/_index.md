@@ -12,6 +12,8 @@ type: page
 | Company  | [NTT DATA CCS CORPORATION](https://www.nttdata-ccs.co.jp/) |
 | Position | Cloud Engineer                                             |
 
+![](../images/qr-github-252.jpg) ![](../images/qr-zenn.png)
+
 ## Contents<!-- omit in toc -->
 
 - [SPECIAL SKILLS](#special-skills)
@@ -19,7 +21,6 @@ type: page
 - [QUALIFICATIONS](#qualifications)
 - [EDUCATION](#education)
 - [WORK EXPERIENCE](#work-experience)
-  - [NTT DATA CCS CORPORATIONS (April, 2004 - present)](#ntt-data-ccs-corporations-april-2004---present)
 - [INTEREST](#interest)
 - [LINKS](#links)
   - [Zenn](#zenn)
@@ -62,12 +63,13 @@ type: page
     - Planning and conducting in-house seminars featuring AWS Top Engineers on the theme of sustained technical growth and motivation maintenance (Over 100 participants)
   - GitHubでAWSリファレンスアーキテクチャとCDKでの実装例の公開
     - Publishing AWS reference architectures and CDK implementation examples on GitHub
+
 ---
 
 ## HONORS & AWARDS
 
 - 2024 Japan AWS Top Engineers
-  - ![2024 Japan AWS Top Engineers](../images/aws/2024-Japan-AWS-Top-Engineers-1024x307.png)
+  - ![2024 Japan AWS Top Engineers](../images/aws/2024-Japan-AWS-Top-Engineers-Logo-320.jpg)
   - [APN Blog](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/)
 
 - 2024 Japan AWS All Certifications Engineers
@@ -133,7 +135,51 @@ type: page
 
 ## WORK EXPERIENCE
 
-### <u>NTT DATA CCS CORPORATIONS (April, 2004 - present)</u>
+- NTT DATA CCS CORPORATIONS (April, 2004 - present)
+  - 2024
+    - ArcGIS EnterpriseをAWS上で構築、IaC化
+      - Deployed ArcGIS Enterprise on AWS, implementing Infrastructure as Code (IaC)
+    - 社内で 2024 AWS Top Engineers & All Certifications Engineers 受賞第一号
+      - First recipient of internal "2024 AWS Top Engineers & All Certifications Engineers" award
+    - 上記受賞により社内講演会の企画、登壇
+      - Organized and presented at company seminar following the award
+    - CCoEの設立活動に参加
+      - Participated in CCoE establishment initiatives
+    - 社内スペシャリスト制度の見直しに参画、制度に対する助言を実施
+      - Contributed to internal specialist system review, providing system recommendations
+    - 社内AWS検証環境構築に関するAWSアカウントセキュリティポリシーのドラフト版を策定への助言
+      - Advised on draft AWS account security policies for internal AWS testing environment
+  - 2023
+    - オンプレ構築案件でサーバー導入までの期間にAWSを利用した早期レビュー環境の構築を提案、実施。遠隔地の顧客とリリース前の画面レビュー毎月繰り返し、品質向上に貢献
+      - Proposed and implemented early review environment using AWS during on-premises deployment, enhancing quality through monthly remote client screen reviews
+    - プロジェクトでの画面設計の生産性向上に、Figmaを導入。従来はできなかったプロトタイプによる動作再現によりクライアントとのデザイン確認の生産性向上に貢献
+      - Introduced Figma for UI/UX design, improving productivity through interactive prototypes for client design reviews
+    - 社内でのAWS案件のレビューや相談を担当
+      - Served as internal reviewer and consultant for AWS projects
+  - 2022年
+    - eラーニングサービス（SaaS）とのシングルサインオンに Keycloak を採用し、Amazon ECS/AWS Fargate で稼働させた
+      - Implemented Keycloak for Single Sign-On with e-learning service (SaaS), running on Amazon ECS/AWS Fargate
+    - AWS CDKによるIaCを導入
+      - Introduced Infrastructure as Code using AWS CDK
+    - 組織のAWSスキル向上のために勉強会を企画、月次開催（2024年で26回の開催実績）
+      - Organized monthly AWS study sessions to enhance organizational AWS skills (26 sessions held through 2024)
+    - Zennによる勉強会記事投稿を開始
+      - Began publishing study session articles on Zenn
+  - 2021
+    - 自社AIシステムと連携した画像解析システムのAWSインフラ構築を担当
+      - Led AWS infrastructure development for image analysis system integrated with company's AI system
+    - CloudFormationによるIaCを導入
+      - Implemented Infrastructure as Code using CloudFormation
+    - CodeCommitとCodePipelineによるCI/CDの導入
+      - Introduced CI/CD using CodeCommit and CodePipeline
+  - 2017
+    - AWS案件に関わったことをきっかけに、AWSのスキルが組織に必要と感じ、独自に習得を行う
+      - Self-initiated AWS skill development after recognizing organizational needs through AWS project involvement
+  - 2004
+    - 新卒入社
+      - Joined as new graduate
+    - アプリケーション開発、データベース設計、オンプレのサーバ導入、プロジェクトリーダーなど
+      - Engaged in application development, database design, on-premises server deployment, and project leadership
 
 ---
 
