@@ -38,7 +38,7 @@ enableRobotsTXT = true
   socialIcons = [
     {name = "twitter", url = "https://twitter.com/issy55829654"},
     {name = "github", url = "https://github.com/ishiharatma"},
-    {name = "Zenn", url = "https://zenn.dev/issy", icon= "fab fa-zenn fa-2x"},
+    {name = "zenn", url = "https://zenn.dev/issy"},
     {name = "linkedin", url = "https://www.linkedin.com/in/tomoaki-ishihara-a48232203/"},
   ]
   metaKeywords = ["ishiharatma", "issy", "portfolio"]
