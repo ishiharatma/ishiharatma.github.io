@@ -79,18 +79,19 @@ type: page
 ## QUALIFICATIONS
 
 - 普通自動車第一種運転免許 / Driver's License (1st grade)
-- 情報処理技術者試験 / ITEE（Information Technology Engineers Examination）
+- 情報処理技術者試験 / ITEE (Information Technology Engineers Examination)
   - ネットワークスペシャリスト試験 (December 11, 2015) / Network Specialist Examination
   - データベーススペシャリスト試験 (June 20, 2014) / Database Specialist Examination
   - 応用情報技術者試験 (June 15, 2012) / Applied Information Technology Engineer Examination
   - 基本情報技術者試験 (November 19, 2002) / Fundamental Information Technology Engineer Examination
+- 生成AIパスポート試験(November 15, 2024) / Generative AI Passport Examination
 - AWS Certified
   - [AWS Certified Solutions Architect – Professional (October 26, 2022)](https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url)
   - [AWS Certified DevOps Engineer – Professional (May 31, 2023)](https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url)
   - [AWS Certified Solutions Architect – Associate (August 24, 2022)](https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url)
   - [AWS Certified SysOps Administrator – Associate (April 27, 2023)](https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url)
   - [AWS Certified Developer – Associate (February 15, 2023)](https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url)
-  - [AWS Certified Machine Learning Engineer - Associate Early Adopter (October 28, 2024)](https://www.credly.com/badges/ba825004-8b1a-49f8-a266-87d6b3fc8797/public_url)
+  - [AWS Certified Machine Learning Engineer – Associate Early Adopter (October 28, 2024)](https://www.credly.com/badges/ba825004-8b1a-49f8-a266-87d6b3fc8797/public_url)
   - [AWS Certified Cloud Practitioner (November 25, 2022)](https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url)
   - [AWS Certified AI Practitioner Early Adopter (September 12, 2024)](https://www.credly.com/badges/7d821faa-b147-4a75-99f6-d31b8636786a/public_url)
 - AWS Certified Specialty
@@ -100,7 +101,7 @@ type: page
 - AWS Certified Specialty(Retired)
   - [AWS Certified Database – Specialty (February 15, 2024)](https://www.credly.com/badges/57be108d-6997-4334-aa63-257c4fb43a7e/public_url)
   - [AWS Certified Data Analytics – Specialty (February 29, 2024)](https://www.credly.com/badges/84364214-cac5-4050-841f-6ffac4f7f72f/public_url)
-  - [AWS Certified SAP on AWS - Specialty (March 19, 2024)](https://www.credly.com/badges/f5977f16-8340-4fe7-b767-f4332a3b50aa/public_url)
+  - [AWS Certified SAP on AWS – Specialty (March 19, 2024)](https://www.credly.com/badges/f5977f16-8340-4fe7-b767-f4332a3b50aa/public_url)
 - [AWS Cloud Quest](https://aws.amazon.com/jp/training/digital/aws-cloud-quest/)
   - [AWS Cloud Quest: Cloud Practitioner (January 18, 2024)](https://www.credly.com/badges/b967f1e4-9e6e-46d6-9ffb-cdecb437c761/public_url)
   - [AWS Cloud Quest: Security (January 19, 2022)](https://www.credly.com/badges/028ffc84-6d7a-4429-844a-8221ac22f2d8/public_url)
