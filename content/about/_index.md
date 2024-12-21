@@ -73,7 +73,7 @@ type: page
   - [APN Blog](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/)
 
 - 2024 Japan AWS All Certifications Engineers
-  - ![2024 Japan AWS All Certifications Engineers](../images/aws/2024-All-Certs-Logo-320.png)
+  - ![2024 Japan AWS All Certifications Engineers](../images/aws/2024-All-Certs-Logo-320.jpg)
   - [APN Blog](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/)
 
 ## QUALIFICATIONS
