@@ -15,6 +15,9 @@ enableRobotsTXT = true
   avatarSize = "size-m"
   accentColor = "#38b48b"
   togglePreviousAndNextButtons = "true"
+  date: 2024-10-01
+  #lastmod: 2025-02-13
+  #copyright = ""
   customHeadHTML = """
     <!-- KaTeX -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" integrity="sha384-Xi8rHCmBmhbuyyhbI88391ZKP2dmfnOl4rT9ZfRI7mLTdk1wblIUnrIq35nqwEvC" crossorigin="anonymous">
@@ -52,15 +55,15 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Card"
-    pre = "<span data-feather='user'></span>"
+    pre = "<span data-feather='card'></span>"
     url = "/card/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "About"
     pre = "<span data-feather='user'></span>"
     url = "/about/"
-    weight =3
+    weight =2
 
   [[menu.main]]
     name = "Activity"
@@ -94,3 +97,6 @@ enableRobotsTXT = true
     startLevel = 2
     endLevel = 3
     ordered = false
+
+[minify]
+    minifyOutput = true
