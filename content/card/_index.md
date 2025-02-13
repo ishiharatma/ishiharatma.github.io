@@ -1,6 +1,6 @@
 ---
 title: "Card"
-type: post
+type: page
 ---
 
 ## Profile<!-- omit in toc -->

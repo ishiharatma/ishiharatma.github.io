@@ -1,6 +1,6 @@
 ---
 title: "Activities"
-type: post
+type: page
 ---
 
 ## Zenn
