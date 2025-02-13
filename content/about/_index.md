@@ -13,20 +13,6 @@ showTableOfContents: true
 | Company  | [NTT DATA CCS CORPORATION](https://www.nttdata-ccs.co.jp/) |
 | Position | Cloud Engineer                                             |
 
-## Contents<!-- omit in toc -->
-
-- [SPECIAL SKILLS](#special-skills)
-- [HONORS \& AWARDS](#honors--awards)
-- [QUALIFICATIONS](#qualifications)
-- [EDUCATION](#education)
-- [WORK EXPERIENCE](#work-experience)
-- [INTEREST](#interest)
-- [LINKS](#links)
-  - [Zenn](#zenn)
-  - [AWS 勉強会資料公開 / AWS Study Group Materials](#aws-勉強会資料公開--aws-study-group-materials)
-  - [GitHub](#github)
-- [ADDITIONAL INFORMATION](#additional-information)
-
 ---
 
 ## SPECIAL SKILLS

@@ -60,19 +60,19 @@ enableRobotsTXT = true
     name = "About"
     pre = "<span data-feather='user'></span>"
     url = "/about/"
-    weight = 2
+    weight =3
 
   [[menu.main]]
     name = "Activity"
     pre = "<span data-feather='activity'></span>"
     url = "/activities/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Post"
     pre = "<span data-feather='book'></span>"
     url = "/posts/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     # Unique identifiers are required for menu entries without a name property,
@@ -81,7 +81,7 @@ enableRobotsTXT = true
     pre = "<span data-feather='github'></span>"
     # Absolute URL to external resource
     url = "https://github.com/ishiharatma"
-    weight = 3
+    weight = 6
 
   [[menu.main]]
     identifier = "rss"
