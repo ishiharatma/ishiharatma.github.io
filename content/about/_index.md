@@ -1,6 +1,7 @@
 ---
 title: "About"
-type: page
+type: post
+date: 2025-02-12T23:00:00+09:00
 showTableOfContents: true
 ---
 
