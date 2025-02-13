@@ -84,12 +84,13 @@ type: page
   - データベーススペシャリスト試験 (June 20, 2014) / Database Specialist Examination
   - 応用情報技術者試験 (June 15, 2012) / Applied Information Technology Engineer Examination
   - 基本情報技術者試験 (November 19, 2002) / Fundamental Information Technology Engineer Examination
-- 生成AIパスポート試験(November 15, 2024) / Generative AI Passport Examination
+- [生成AIパスポート試験(November 15, 2024)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dy81TXUrTEF2VVA4VkdKTFBVaGpuUT09) / Generative AI Passport Examination
 - AWS Certified
   - [AWS Certified Solutions Architect – Professional (October 26, 2022)](https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url)
   - [AWS Certified DevOps Engineer – Professional (May 31, 2023)](https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url)
   - [AWS Certified Solutions Architect – Associate (August 24, 2022)](https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url)
   - [AWS Certified SysOps Administrator – Associate (April 27, 2023)](https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url)
+  - [AWS Certified Data Engineer – Associate (February 12, 2025)](https://www.credly.com/badges/c9c3cbc4-e32c-45d2-8b0f-c13ccd5cd74d/public_url)
   - [AWS Certified Developer – Associate (February 15, 2023)](https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url)
   - [AWS Certified Machine Learning Engineer – Associate Early Adopter (October 28, 2024)](https://www.credly.com/badges/ba825004-8b1a-49f8-a266-87d6b3fc8797/public_url)
   - [AWS Certified Cloud Practitioner (November 25, 2022)](https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url)
