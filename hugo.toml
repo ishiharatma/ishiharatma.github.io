@@ -3,9 +3,6 @@ defaultContentLanguage = "en"
 languageCode = "en"
 title = "issy's Portfolio"
 theme = "gokarna"
-date: 2024-10-01
-#lastmod: 2025-02-13
-#copyright = ""
 
 # Automatically generate robots.txt
 enableRobotsTXT = true
