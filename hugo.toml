@@ -78,7 +78,7 @@ enableRobotsTXT = true
     # Unique identifiers are required for menu entries without a name property,
     # or for menu entries which re-use a name
     identifier = "github"
-
+    pre = "<span data-feather='github'></span>"
     # Absolute URL to external resource
     url = "https://github.com/ishiharatma"
     weight = 3
@@ -91,6 +91,6 @@ enableRobotsTXT = true
 
 [markup]
   [markup.tableOfContents]
-    startLevel = 2
+    startLevel = 1
     endLevel = 3
-    ordered = true
+    ordered = false
