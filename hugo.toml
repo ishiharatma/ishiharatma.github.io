@@ -9,7 +9,7 @@ enableRobotsTXT = true
 
 [params]
   footer = "issy"
-  description = "Cloud Engineer and ???"
+  description = "Cloud Engineer and others"
   avatarURL = "/images/top.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
@@ -51,6 +51,12 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
+    name = "Card"
+    pre = "<span data-feather='user'></span>"
+    url = "/card/"
+    weight = 2
+
+  [[menu.main]]
     name = "About"
     pre = "<span data-feather='user'></span>"
     url = "/about/"
@@ -67,6 +73,21 @@ enableRobotsTXT = true
     pre = "<span data-feather='book'></span>"
     url = "/posts/"
     weight = 4
+
+  [[menu.main]]
+    # Unique identifiers are required for menu entries without a name property,
+    # or for menu entries which re-use a name
+    identifier = "github"
+
+    # Absolute URL to external resource
+    url = "https://github.com/ishiharatma"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "rss"
+    pre = "<span data-feather='rss'></span>"
+    url = "https://zenn.dev/issy/feed"
+    weight = 7
 
 [markup]
   [markup.tableOfContents]
