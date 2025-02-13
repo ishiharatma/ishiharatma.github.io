@@ -52,7 +52,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Card"
-    pre = "<span data-feather='card'></span>"
+    pre = "<span data-feather='user'></span>"
     url = "/card/"
     weight = 3
 
