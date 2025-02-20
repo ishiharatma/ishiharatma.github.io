@@ -71,6 +71,8 @@ showTableOfContents: true
   - 応用情報技術者試験 (June 15, 2012) / Applied Information Technology Engineer Examination
   - 基本情報技術者試験 (November 19, 2002) / Fundamental Information Technology Engineer Examination
 - [生成AIパスポート試験(November 15, 2024)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dy81TXUrTEF2VVA4VkdKTFBVaGpuUT09) / Generative AI Passport Examination
+- AWS Partner
+  - [AWS Partner: Sales Accreditation](https://www.credly.com/badges/cd47b8e6-0cf0-4cd3-8d6b-3d19be53bea1/public_url)
 - AWS Certified
   - [AWS Certified Solutions Architect – Professional (October 26, 2022)](https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url)
   - [AWS Certified DevOps Engineer – Professional (May 31, 2023)](https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url)
