@@ -19,22 +19,22 @@ Scan the QR code or click the image!
 
 ---
 
-[![GitHub](../images/qr-github-252.jpg)](https://ishiharatma.github.io/)
+[![GitHub](../images/qr-github-252.jpg)](https://ishiharatma.github.io/){:target="_blank"}
 
 ---
 
-[![Zenn](../images/qr-zenn.png)](https://zenn.dev/issy)
+[![Zenn](../images/qr-zenn.png)](https://zenn.dev/issy){:target="_blank"}
 
 ---
 
-[![X](../images/qr-x.png)](https://x.com/issy55829654)
+[![X](../images/qr-x.png)](https://x.com/issy55829654){:target="_blank"}
 
 ---
 
-[![LinkdedIn](../images/qr-linkedin.png)](https://www.linkedin.com/in/tomoaki-ishihara-a48232203/)
+[![LinkdedIn](../images/qr-linkedin.png)](https://www.linkedin.com/in/tomoaki-ishihara-a48232203/){:target="_blank"}
 
 ---
 
-[![daily.dev](../images/qr-daily-dev.png)](https://app.daily.dev/issy929)
+[![daily.dev](../images/qr-daily-dev.png)](https://app.daily.dev/issy929){:target="_blank"}
 
 ---
