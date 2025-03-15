@@ -18,23 +18,33 @@ type: page
 Scan the QR code or click the image!
 
 ---
+GitHub
 
-[![GitHub](../images/qr-github-252.jpg)](https://ishiharatma.github.io/){:target="_blank"}
-
----
-
-[![Zenn](../images/qr-zenn.png)](https://zenn.dev/issy){:target="_blank"}
+[![GitHub](../images/qr-github-252.jpg)](https://ishiharatma.github.io/)
 
 ---
+Zenn
 
-[![X](../images/qr-x.png)](https://x.com/issy55829654){:target="_blank"}
-
----
-
-[![LinkdedIn](../images/qr-linkedin.png)](https://www.linkedin.com/in/tomoaki-ishihara-a48232203/){:target="_blank"}
+[![Zenn](../images/qr-zenn.png)](https://zenn.dev/issy)
 
 ---
+Qiita
 
-[![daily.dev](../images/qr-daily-dev.png)](https://app.daily.dev/issy929){:target="_blank"}
+[![Qiita](../images/qr-qiita.png)](https://qiita.com/issy929)
+
+---
+X
+
+[![X](../images/qr-x.png)](https://x.com/issy55829654)
+
+---
+LinkedIn
+
+[![LinkdedIn](../images/qr-linkedin.png)](https://www.linkedin.com/in/tomoaki-ishihara-a48232203/)
+
+---
+DEV Community
+
+[![dev](../images/qr-dev.png)](https://dev.to/issy929)
 
 ---
