@@ -54,6 +54,8 @@ showTableOfContents: true
 
 ## HONORS & AWARDS
 
+- 2025 AWS Community Builder(Dev Tools)
+  - ![2025AWSCBs](../images/aws/Community Builder LinkedIn 1400px ALT-320.jpg)
 - 2024 Japan AWS Top Engineers
   - ![2024 Japan AWS Top Engineers](../images/aws/2024-Japan-AWS-Top-Engineers-Logo-320.jpg)
   - [APN Blog](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/)

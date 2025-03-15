@@ -28,6 +28,9 @@ type: page
 - Mar 02 - [【実例】AWS CloudFormation IaC ジェネレーターで爆速 IaC 化](https://zenn.dev/issy/articles/zenn-cfn-iac-generator-tried-it)
 <!-- zenn end -->
 
+## Qiita
+<!-- qiita start -->
+<!-- qiita end -->
 
 ## GitHub
 
