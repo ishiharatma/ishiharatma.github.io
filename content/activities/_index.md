@@ -30,6 +30,8 @@ type: page
 
 ## Qiita
 <!-- qiita start -->
+- Mar 10 - [【イベントレポート】2025/3/10 Bedrock Night オンライン 〜AWSで生成AIアプリ開発！ 最新ナレッジ共有〜](https://qiita.com/issy929/items/b885fe7be578b83fa73e)
+- Mar 09 - [初めてAWS Community Builderに選ばれたので何をしたか振り返ってみる【外部登壇なしでも！】](https://qiita.com/issy929/items/4b8aacd261d1a6fabc75)
 <!-- qiita end -->
 
 ## GitHub
