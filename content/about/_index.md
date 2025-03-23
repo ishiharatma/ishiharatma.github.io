@@ -3,6 +3,11 @@ title: "About"
 type: page
 date: 2025-02-12T23:00:00+09:00
 showTableOfContents: true
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
 ---
 
 ## Profile<!-- omit in toc -->
@@ -55,7 +60,8 @@ showTableOfContents: true
 ## HONORS & AWARDS
 
 - 2025 AWS Community Builder(Dev Tools)
-  - ![2025AWSCBs](../images/aws/Community Builder LinkedIn 1400px ALT-320.jpg)
+  - ![2025AWSCBs](../images/aws/Community-Builder-LinkedIn-1400px-ALT-320.jpg)
+  - [AWS Community Builders](https://aws.amazon.com/jp/developer/community/community-builders/)
 - 2024 Japan AWS Top Engineers
   - ![2024 Japan AWS Top Engineers](../images/aws/2024-Japan-AWS-Top-Engineers-Logo-320.jpg)
   - [APN Blog](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/)
@@ -67,7 +73,7 @@ showTableOfContents: true
 ## QUALIFICATIONS
 
 - 普通自動車第一種運転免許 / Driver's License (1st grade)
-- 情報処理技術者試験 / ITEE (Information Technology Engineers Examination)
+- [情報処理技術者試験](https://www.ipa.go.jp/shiken/index.html) / ITEE (Information Technology Engineers Examination)
   - ネットワークスペシャリスト試験 (December 11, 2015) / Network Specialist Examination
   - データベーススペシャリスト試験 (June 20, 2014) / Database Specialist Examination
   - 応用情報技術者試験 (June 15, 2012) / Applied Information Technology Engineer Examination
@@ -75,7 +81,7 @@ showTableOfContents: true
 - [生成AIパスポート試験(November 15, 2024)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dy81TXUrTEF2VVA4VkdKTFBVaGpuUT09) / Generative AI Passport Examination
 - AWS Partner
   - [AWS Partner: Sales Accreditation](https://www.credly.com/badges/cd47b8e6-0cf0-4cd3-8d6b-3d19be53bea1/public_url)
-- AWS Certified
+- [AWS Certification](https://aws.amazon.com/certification/)
   - [AWS Certified Solutions Architect – Professional (October 26, 2022)](https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url)
   - [AWS Certified DevOps Engineer – Professional (May 31, 2023)](https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url)
   - [AWS Certified Solutions Architect – Associate (August 24, 2022)](https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url)
@@ -102,7 +108,7 @@ showTableOfContents: true
   - [AWS Cloud Quest: Networking (January 22, 2024)](https://www.credly.com/badges/bc5ebe9a-8942-41f4-bf16-4a99cb0f4a7d/public_url)
   - [AWS Cloud Quest: Machine Learning (January 24, 2024)](https://www.credly.com/badges/78b39aff-083b-465a-a61a-38daff1d648d/public_url)
 
-- Oracle
+- Oracle Certification
   - [Oracle Cloud Infrastructure Foundations 2021 Certified Associate (March 29, 2022)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1)
   - ORACLE MASTER Gold Oracle Database 10g (July 9, 2012)
   - ORACLE MASTER Silver Oracle Database 10g (February 28, 2012)
@@ -110,7 +116,7 @@ showTableOfContents: true
   - Oracle Silver Fellow (December 1, 2004)
   - ORACLE MASTER Silver
 
-- Microsoft Certified
+- Microsoft Certification
   - [Azure Solutions Architect Expert (February 25, 2022)](https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/2481EDFDC897A1C8?sharingId=EC4CFA5845D2040B)
   - [DevOps Engineer Expert (April 07, 2022)](https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/CD163B7320AF150B?sharingId=EC4CFA5845D2040B)
   - [Azure Security Engineer Associate (July 29, 2022)](https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/AD0F409D98F08F4B?sharingId=EC4CFA5845D2040B)
@@ -122,6 +128,8 @@ showTableOfContents: true
 ---
 
 ## EDUCATION
+
+TBD
 
 ---
 

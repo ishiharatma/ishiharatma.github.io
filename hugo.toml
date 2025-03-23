@@ -36,10 +36,11 @@ enableRobotsTXT = true
     </script>
   """
   socialIcons = [
-    {name = "twitter", url = "https://twitter.com/issy55829654"},
-    {name = "github", url = "https://github.com/ishiharatma"},
-    {name = "zenn", url = "https://zenn.dev/issy"},
     {name = "linkedin", url = "https://www.linkedin.com/in/tomoaki-ishihara-a48232203/"},
+    {name = "x", url = "https://twitter.com/issy55829654"},
+    {name = "github", url = "https://github.com/ishiharatma"},
+    {name = "devdotto", url = "https://dev.to/issy929"},
+    {name = "zenn", url = "https://zenn.dev/issy"},
   ]
   metaKeywords = ["ishiharatma", "issy", "portfolio"]
 
