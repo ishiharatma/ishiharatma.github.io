@@ -34,6 +34,10 @@ type: page
 - Mar 09 - [初めてAWS Community Builderに選ばれたので何をしたか振り返ってみる【外部登壇なしでも！】](https://qiita.com/issy929/items/4b8aacd261d1a6fabc75)
 <!-- qiita end -->
 
+## Dev.to
+<!-- devdotto start -->
+<!-- devdotto end -->
+
 ## GitHub
 
 [![](https://raw.githubusercontent.com/ishiharatma/ishiharatma/main/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

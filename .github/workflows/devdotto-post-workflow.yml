@@ -1,31 +1,31 @@
-name: 'zenn feed ci'
+name: 'Dev.to feed ci'
 on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '5 * * * *'
 
 jobs:
   readme:
     runs-on: ubuntu-latest
     outputs:
-      changed: ${{ steps.zenn.outputs.changed }}
-      items: ${{ steps.zenn.outputs.items }}
+      changed: ${{ steps.devdotto.outputs.changed }}
+      items: ${{ steps.devdotto.outputs.items }}
     steps:
       - uses: actions/checkout@v4
       - uses: sarisia/actions-readme-feed@v1
-        id: zenn
+        id: devdotto
         with:
-          url: 'https://zenn.dev/issy/feed'
+          url: 'https://dev.to/feed/issy929'
           file: './content/activities/_index.md'
           max_entry: 20
-          start_flag: "<!-- zenn start -->"
-          end_flag: "<!-- zenn end -->"
+          start_flag: "<!-- devdotto start -->"
+          end_flag: "<!-- devdotto end -->"
       - name: push to master
-        if: steps.zenn.outputs.changed == true
+        if: steps.devdotto.outputs.changed == true
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git add .
-          git commit -m "docs: update zenn feed"
+          git commit -m "docs: update dev.to feed"
           git push

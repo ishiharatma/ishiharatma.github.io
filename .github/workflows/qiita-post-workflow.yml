@@ -1,9 +1,9 @@
-name: 'blog feed ci'
+name: 'Qiita feed ci'
 on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '3 * * * *'
 
 jobs:
   readme:
