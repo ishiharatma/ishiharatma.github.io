@@ -36,6 +36,8 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- Mar 19 - [Efficiently Managing AWS CLI Profiles Across Multiple Projects with PowerShell](https://dev.to/aws-builders/efficiently-managing-aws-cli-profiles-across-multiple-projects-with-powershell-19p7)
+- Mar 18 - [Pushing to Dev.to using GitHub](https://dev.to/issy929/pushing-to-devto-using-github-3kl4)
 <!-- devdotto end -->
 
 ## GitHub
