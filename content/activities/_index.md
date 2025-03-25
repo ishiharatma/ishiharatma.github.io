@@ -36,6 +36,7 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- Mar 25 - [Resolving PowerShell Text Input Issues on Windows Server 2022 EC2 via Fleet Manager](https://dev.to/issy929/resolving-powershell-text-input-issues-on-windows-server-2022-ec2-via-fleet-manager-1fkc)
 - Mar 19 - [Efficiently Managing AWS CLI Profiles Across Multiple Projects with PowerShell](https://dev.to/aws-builders/efficiently-managing-aws-cli-profiles-across-multiple-projects-with-powershell-19p7)
 - Mar 18 - [Pushing to Dev.to using GitHub](https://dev.to/issy929/pushing-to-devto-using-github-3kl4)
 <!-- devdotto end -->
