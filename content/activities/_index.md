@@ -36,6 +36,8 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- Mar 25 - [Introduction to AWS CDK: Fundamentals and Benefits](https://dev.to/issy929/introduction-to-aws-cdk-fundamentals-and-benefits-2k1e)
+- Mar 25 - [Mastering AWS CDK: A Comprehensive Guide (Overview)](https://dev.to/issy929/mastering-aws-cdk-a-comprehensive-guide-overview-5dae)
 - Mar 25 - [Resolving PowerShell Text Input Issues on Windows Server 2022 EC2 via Fleet Manager](https://dev.to/issy929/resolving-powershell-text-input-issues-on-windows-server-2022-ec2-via-fleet-manager-1fkc)
 - Mar 19 - [Efficiently Managing AWS CLI Profiles Across Multiple Projects with PowerShell](https://dev.to/aws-builders/efficiently-managing-aws-cli-profiles-across-multiple-projects-with-powershell-19p7)
 - Mar 18 - [Pushing to Dev.to using GitHub](https://dev.to/issy929/pushing-to-devto-using-github-3kl4)
