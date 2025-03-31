@@ -36,6 +36,7 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- Mar 31 - [AWS CDK in Practice: Components, Commands, and Versions](https://dev.to/issy929/aws-cdk-in-practice-components-commands-and-versions-4ea1)
 - Mar 25 - [Introduction to AWS CDK: Fundamentals and Benefits](https://dev.to/aws-builders/introduction-to-aws-cdk-fundamentals-and-benefits-2k1e)
 - Mar 25 - [Mastering AWS CDK: A Comprehensive Guide (Overview)](https://dev.to/aws-builders/mastering-aws-cdk-a-comprehensive-guide-overview-5dae)
 - Mar 25 - [Resolving PowerShell Text Input Issues on Windows Server 2022 EC2 via Fleet Manager](https://dev.to/issy929/resolving-powershell-text-input-issues-on-windows-server-2022-ec2-via-fleet-manager-1fkc)
