@@ -30,10 +30,10 @@ type: page
 
 ## Qiita
 <!-- qiita start -->
+- May 13 - [【イベントレポート】2025/5/12 みのるんさんとMCPの"今"をキャッチアップ！試した事例と学びを語り合うLTラッシュ](https://qiita.com/issy929/items/3c236c7529b6bfc8af0d)
 - May 13 - [【イベントレポート】2025/5/13 JAWS-UG朝会 #69](https://qiita.com/issy929/items/db97ac08573d64092b75)
 - May 10 - [【イベントレポート】2025/5/10 JAWS-UG 彩の国埼玉支部 #1〜AWS Summit前のウォームアップ〜知識をアップデート！](https://qiita.com/issy929/items/223a0c982f45a9c6a208)
 - Mar 10 - [【イベントレポート】2025/3/10 Bedrock Night オンライン 〜AWSで生成AIアプリ開発！ 最新ナレッジ共有〜](https://qiita.com/issy929/items/b885fe7be578b83fa73e)
-- Mar 09 - [初めてAWS Community Builderに選ばれたので何をしたか振り返ってみる【外部登壇なしでも！】](https://qiita.com/issy929/items/4b8aacd261d1a6fabc75)
 <!-- qiita end -->
 
 ## Dev.to
