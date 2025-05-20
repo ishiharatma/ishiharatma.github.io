@@ -30,7 +30,7 @@ type: page
 
 ## Qiita
 <!-- qiita start -->
-- May 16 - [【イベントレポート】2025/5/16 AWS GameDay ～Secure Legends ハードモード(再演) with Amazon Q Developer～](https://qiita.com/issy929/items/d629371e49c54fbaaee7)
+- May 16 - [【イベントレポート】AWSインシデント対応を劇的に変える Amazon Q Developer実践レポート - AWS Top Engineers向けGameDay体験記](https://qiita.com/issy929/items/d629371e49c54fbaaee7)
 - May 14 - [【イベントレポート】2025/5/14 Education-JAWS #3 ~教育現場に、AWSのチカラを~](https://qiita.com/issy929/items/ad01be0d2d833ec3d0be)
 - May 13 - [【イベントレポート】2025/5/12 みのるんさんとMCPの"今"をキャッチアップ！試した事例と学びを語り合うLTラッシュ](https://qiita.com/issy929/items/3c236c7529b6bfc8af0d)
 - May 13 - [【イベントレポート】2025/5/13 JAWS-UG朝会 #69](https://qiita.com/issy929/items/db97ac08573d64092b75)
