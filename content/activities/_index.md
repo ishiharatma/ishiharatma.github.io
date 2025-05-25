@@ -38,6 +38,7 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- May 25 - [Build Games with Amazon Q CLI and Get a Free T-shirt! 🏆👕](https://dev.to/aws-builders/build-games-with-amazon-q-cli-and-get-a-free-t-shirt-1h4g)
 - Mar 31 - [AWS CDK in Practice: Components, Commands, and Versions](https://dev.to/aws-builders/aws-cdk-in-practice-components-commands-and-versions-4ea1)
 - Mar 25 - [Introduction to AWS CDK: Fundamentals and Benefits](https://dev.to/aws-builders/introduction-to-aws-cdk-fundamentals-and-benefits-2k1e)
 - Mar 25 - [Mastering AWS CDK: A Comprehensive Guide (Overview)](https://dev.to/aws-builders/mastering-aws-cdk-a-comprehensive-guide-overview-5dae)
