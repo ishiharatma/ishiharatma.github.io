@@ -5,6 +5,9 @@ on:
     branches:
       - main  # Set a branch name to trigger deployment
   pull_request:
+  schedule:
+    - cron: '* 0 * * *'
+
 
 jobs:
   deploy:
