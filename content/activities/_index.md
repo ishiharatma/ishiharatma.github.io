@@ -30,10 +30,10 @@ type: page
 
 ## Qiita
 <!-- qiita start -->
+- Jun 12 - [【AWS CDK】CloudFrontオリジンの順序を変えただけでデプロイが失敗する理由と対策](https://qiita.com/issy929/items/6a790bd9f051f8751ab2)
 - May 31 - [【イベントレポート】2025/5/28 Japan Datadog User Group Meetup#10](https://qiita.com/issy929/items/5e9cdc27cd33f66f1f4e)
 - May 25 - [Amazon Q CLIでゲームを作って特製Tシャツをゲットしよう！🏆👕](https://qiita.com/issy929/items/9562187de4f93999e8d4)
 - May 16 - [【イベントレポート】AWSインシデント対応を劇的に変える Amazon Q Developer実践レポート - AWS Top Engineers向けGameDay体験記](https://qiita.com/issy929/items/d629371e49c54fbaaee7)
-- May 14 - [【イベントレポート】2025/5/14 Education-JAWS #3 ~教育現場に、AWSのチカラを~](https://qiita.com/issy929/items/ad01be0d2d833ec3d0be)
 <!-- qiita end -->
 
 ## Dev.to
