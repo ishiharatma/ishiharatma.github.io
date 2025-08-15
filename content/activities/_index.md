@@ -32,7 +32,7 @@ type: page
 <!-- qiita start -->
 - Jun 28 - [AWS Summit 2025 Community Stage全セッション＆資料まとめ](https://qiita.com/issy929/items/e02154bea72c4cff3106)
 - Jun 21 - [AWS Summit 2025 ミニステージスケジュールビューアーを作ってみた【Amazon Q CLIが実装と記事作成を全部やりました】](https://qiita.com/issy929/items/0eee86eb730206041a00)
-- Jun 12 - [【AWS CDK】CloudFrontオリジンの順序を変えただけでデプロイが失敗する理由と対策](https://qiita.com/issy929/items/6a790bd9f051f8751ab2)
+- Jun 12 - [AWS CDKでCloudFrontオリジンを追加したらデプロイが失敗した話 —— 論理ID生成の罠と回避策](https://qiita.com/issy929/items/6a790bd9f051f8751ab2)
 - May 31 - [【イベントレポート】2025/5/28 Japan Datadog User Group Meetup#10](https://qiita.com/issy929/items/5e9cdc27cd33f66f1f4e)
 <!-- qiita end -->
 
