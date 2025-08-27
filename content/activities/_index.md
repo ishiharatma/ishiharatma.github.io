@@ -38,6 +38,7 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- Aug 27 - [Prevent Wrong Account Operations — AWS Official Header Color Feature Now Available](https://dev.to/aws-builders/prevent-wrong-account-operations-aws-official-header-color-feature-now-available-1lgc)
 - Jun 21 - [Building an AWS Summit Japan 2025 Mini Stage Schedule Viewer with Amazon Q CLI - Complete Implementation and Article Generation](https://dev.to/aws-builders/building-an-aws-summit-japan-2025-mini-stage-schedule-viewer-with-amazon-q-cli-complete-1ci7)
 - Jun 11 - [AWS CDK Logical ID Deep Dive: How Adding One CloudFront Origin Broke My Entire AWS CDK Deployment](https://dev.to/aws-builders/aws-cdk-logical-id-deep-dive-how-adding-one-cloudfront-origin-broke-my-entire-aws-cdk-deployment-5n)
 - May 25 - [Build Games with Amazon Q CLI and Get a Free T-shirt! 🏆👕](https://dev.to/aws-builders/build-games-with-amazon-q-cli-and-get-a-free-t-shirt-1h4g)
