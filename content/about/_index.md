@@ -54,16 +54,18 @@ showTableOfContents: true
 
 ## HONORS & AWARDS
 
-- 2025 AWS Community Builder(Dev Tools)
+- AWS Community Builder(Dev Tools)(2025)
   - ![2025AWSCBs](../images/aws/Community-Builder-LinkedIn-1400px-ALT-320.jpg)
   - [AWS Community Builders](https://aws.amazon.com/jp/developer/community/community-builders/)
-- 2024 Japan AWS Top Engineers
+  - [goto My Page](https://builder.aws.com/community/@issy929)
+- Japan AWS Top Engineers(2024/2025)
   - ![2024 Japan AWS Top Engineers](../images/aws/2024-Japan-AWS-Top-Engineers-Logo-320.jpg)
-  - [APN Blog](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/)
-
-- 2024 Japan AWS All Certifications Engineers
+  - [APN Blog-2024](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/)
+  - [APN Blog-2025](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/)
+- Japan AWS All Certifications Engineers(2024/2025)
   - ![2024 Japan AWS All Certifications Engineers](../images/aws/2024-All-Certs-Logo-320.jpg)
-  - [APN Blog](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/)
+  - [APN Blog-2024](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/)
+  - [APN Blog-2025](https://aws.amazon.com/jp/blogs/psa/2025-japan-all-aws-certifications-engineers/)
 
 ## QUALIFICATIONS
 
@@ -202,6 +204,14 @@ TBD
 ### GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiharatma&layout=compact)](https://github.com/ishiharatma/)
+
+### dev.to
+
+https://dev.to/issy929
+
+### Qiita
+
+https://qiita.com/issy929
 
 ---
 

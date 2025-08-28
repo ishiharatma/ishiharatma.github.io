@@ -2,7 +2,8 @@ baseURL = "https://ishiharatma.github.io/"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "issy's Portfolio"
-theme = "gokarna"
+theme = "jekyll-theme-chirpy"
+#theme = "gokarna"
 
 # Automatically generate robots.txt
 enableRobotsTXT = true
