@@ -6,6 +6,7 @@ type: page
 ## Zenn
 
 <!-- zenn start -->
+- Sep 02 - [【初心者向け】Amazon Q Developer 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-q-overview)
 - Feb 25 - [AWS CDK で CloudFront+VPCオリジン+プライベートALBを一撃で構築する（TypeScriptコード付き）](https://zenn.dev/issy/articles/aws-cloudfront-vpcorigin-alb)
 - Feb 02 - [【読書会】「AWSではじめる生成AI」12章：生成AIのマネージドサービス Amazon Bedrock](https://zenn.dev/issy/articles/aws-generative-ai-on-aws-12)
 - Sep 04 - [【実例】AWS WAFのIP制限を自動化！S3アップロードだけでホワイトリストを瞬時に更新！](https://zenn.dev/issy/articles/aws-waf-ip-whitelist-auto-updater)
@@ -25,7 +26,6 @@ type: page
 - Mar 23 - [【実例】Amazon API Gateway を S3 プロキシにして簡易スタブ API でテスト効率化！](https://zenn.dev/issy/articles/zenn-apigw-s3-stub-tried-it)
 - Mar 23 - [【初心者向け】AWS Direct Connect 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-directconnect-overview)
 - Mar 23 - [【初心者向け】AWS CloudFormation 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cfn-overview)
-- Mar 02 - [【実例】AWS CloudFormation IaC ジェネレーターで爆速 IaC 化](https://zenn.dev/issy/articles/zenn-cfn-iac-generator-tried-it)
 <!-- zenn end -->
 
 ## Qiita
