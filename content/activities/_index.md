@@ -6,7 +6,6 @@ type: page
 ## Zenn
 
 <!-- zenn start -->
-- Sep 10 - [【アップデート】CloudFrontの署名付きURLでECDSA鍵を利用可能に！──実測で91%高速化、53%のURL短縮効果](https://zenn.dev/issy/articles/update-aws-cloudfront-ecdsa-signed-urls)
 - Sep 02 - [【初心者向け】Amazon Q Developer 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-q-overview)
 - Feb 25 - [AWS CDK で CloudFront+VPCオリジン+プライベートALBを一撃で構築する（TypeScriptコード付き）](https://zenn.dev/issy/articles/aws-cloudfront-vpcorigin-alb)
 - Feb 02 - [【読書会】「AWSではじめる生成AI」12章：生成AIのマネージドサービス Amazon Bedrock](https://zenn.dev/issy/articles/aws-generative-ai-on-aws-12)
@@ -26,6 +25,7 @@ type: page
 - Mar 29 - [【やってみた】Amazon Bedrockを利用した画像生成アプリケーションをAWS CDKで開発してみた！](https://zenn.dev/issy/articles/zenn-bedrock-apigw-tried-it)
 - Mar 23 - [【実例】Amazon API Gateway を S3 プロキシにして簡易スタブ API でテスト効率化！](https://zenn.dev/issy/articles/zenn-apigw-s3-stub-tried-it)
 - Mar 23 - [【初心者向け】AWS Direct Connect 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-directconnect-overview)
+- Mar 23 - [【初心者向け】AWS CloudFormation 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cfn-overview)
 <!-- zenn end -->
 
 ## Qiita
