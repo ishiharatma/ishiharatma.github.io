@@ -38,6 +38,7 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- Dec 02 - [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
 - Nov 25 - [Mastering AWS CDK #3 - AWS CDK Development: Best Practices and Workflow](https://dev.to/aws-builders/mastering-aws-cdk-3-aws-cdk-development-best-practices-and-workflow-1f37)
 - Sep 10 - [AI-Powered Code Reviews with OpenRouter - Complete PR-Agent Setup Guide](https://dev.to/issy929/ai-powered-code-reviews-with-openrouter-complete-pr-agent-setup-guide-5m3)
 - Sep 10 - [CloudFront ECDSA Signed URLs: 91% Faster Generation, 55% Shorter URLs](https://dev.to/aws-builders/cloudfront-ecdsa-signed-urls-91-faster-generation-53-shorter-urls-54nf)
@@ -49,7 +50,6 @@ type: page
 - Mar 25 - [Mastering AWS CDK #1 - Introduction to AWS CDK: Fundamentals and Benefits](https://dev.to/aws-builders/introduction-to-aws-cdk-fundamentals-and-benefits-2k1e)
 - Mar 25 - [Mastering AWS CDK #0: A Comprehensive Guide (Overview)](https://dev.to/aws-builders/mastering-aws-cdk-a-comprehensive-guide-overview-5dae)
 - Mar 25 - [Resolving PowerShell Text Input Issues on Windows Server 2022 EC2 via Fleet Manager](https://dev.to/issy929/resolving-powershell-text-input-issues-on-windows-server-2022-ec2-via-fleet-manager-1fkc)
-- Mar 19 - [Efficiently Managing AWS CLI Profiles Across Multiple Projects with PowerShell](https://dev.to/aws-builders/efficiently-managing-aws-cli-profiles-across-multiple-projects-with-powershell-19p7)
 <!-- devdotto end -->
 
 ## GitHub
