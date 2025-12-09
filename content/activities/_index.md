@@ -38,6 +38,7 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- Dec 09 - [AWS CDK 100 Drill Exercises #002: IAM Basics —— Users, Roles, and Secure Password Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-002-iam-basics-users-roles-and-secure-password-management-1npa)
 - Dec 07 - [AWS CDK 100 Drill Exercises: Index & Progress (#001-#010)](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-index-progress-001-010-27bk)
 - Dec 07 - [AWS CDK 100 Drill Exercises #001: S3 Bucket Fundamentals —— From Default Settings to Practical Customization](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-001-s3-bucket-fundamentals-from-default-settings-to-practical-1hmd)
 - Dec 02 - [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
@@ -49,7 +50,6 @@ type: page
 - Jun 11 - [AWS CDK Logical ID Deep Dive: How Adding One CloudFront Origin Broke My Entire AWS CDK Deployment](https://dev.to/aws-builders/aws-cdk-logical-id-deep-dive-how-adding-one-cloudfront-origin-broke-my-entire-aws-cdk-deployment-5n)
 - May 25 - [Build Games with Amazon Q CLI and Get a Free T-shirt! 🏆👕](https://dev.to/aws-builders/build-games-with-amazon-q-cli-and-get-a-free-t-shirt-1h4g)
 - Mar 31 - [Mastering AWS CDK #2 - AWS CDK in Practice: Components, Commands, and Versions](https://dev.to/aws-builders/aws-cdk-in-practice-components-commands-and-versions-4ea1)
-- Mar 25 - [Mastering AWS CDK #1 - Introduction to AWS CDK: Fundamentals and Benefits](https://dev.to/aws-builders/introduction-to-aws-cdk-fundamentals-and-benefits-2k1e)
 <!-- devdotto end -->
 
 ## GitHub
