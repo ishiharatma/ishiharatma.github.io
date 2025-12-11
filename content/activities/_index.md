@@ -15,7 +15,7 @@ type: page
 - Dec 01 - [【初心者向け】AWS Database Migration Service(DMS) 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-dms-overview)
 - Sep 10 - [【アップデート】CloudFrontの署名付きURLでECDSA鍵を利用可能に！──実測で91%高速化、55%のURL短縮効果](https://zenn.dev/issy/articles/update-aws-cloudfront-ecdsa-signed-urls)
 - Sep 02 - [【初心者向け】Amazon Q Developer 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-q-overview)
-- Feb 25 - [AWS CDK で CloudFront+VPCオリジン+プライベートALBを一撃で構築する（TypeScriptコード付き）](https://zenn.dev/issy/articles/aws-cloudfront-vpcorigin-alb)
+- Feb 25 - [【実例】AWS CDK で CloudFront+VPCオリジン+プライベートALBを一撃で構築する（TypeScriptコード付き）](https://zenn.dev/issy/articles/aws-cloudfront-vpcorigin-alb)
 - Feb 02 - [【読書会】「AWSではじめる生成AI」12章：生成AIのマネージドサービス Amazon Bedrock](https://zenn.dev/issy/articles/aws-generative-ai-on-aws-12)
 - Sep 04 - [【実例】AWS WAFのIP制限を自動化！S3アップロードだけでホワイトリストを瞬時に更新！](https://zenn.dev/issy/articles/aws-waf-ip-whitelist-auto-updater)
 - Aug 22 - [【初心者向け】AWS IAM でのマルチアカウント管理入門！完全ガイド](https://zenn.dev/issy/articles/zenn-iam-multi-account)
