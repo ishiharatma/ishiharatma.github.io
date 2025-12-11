@@ -6,6 +6,12 @@ type: page
 ## Zenn
 
 <!-- zenn start -->
+- Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(6/6) 監査者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-03-auditor)
+- Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
+- Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(4/6) 申請者/承認者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-01-requestor-and-approver)
+- Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(3/6) DeepDive](https://zenn.dev/issy/articles/zenn-team-03-deepdive)
+- Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(2/6) デプロイ](https://zenn.dev/issy/articles/zenn-team-02-deployment-guide)
+- Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(1/6) 概要](https://zenn.dev/issy/articles/zenn-team-01-overview)
 - Dec 01 - [【初心者向け】AWS Database Migration Service(DMS) 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-dms-overview)
 - Sep 10 - [【アップデート】CloudFrontの署名付きURLでECDSA鍵を利用可能に！──実測で91%高速化、55%のURL短縮効果](https://zenn.dev/issy/articles/update-aws-cloudfront-ecdsa-signed-urls)
 - Sep 02 - [【初心者向け】Amazon Q Developer 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-q-overview)
@@ -20,12 +26,6 @@ type: page
 - Jun 30 - [AWS Summit Japan 2024 参加メモ～AWS Summit Japan 2025に向けての歩き方～](https://zenn.dev/issy/articles/aws-summit-japan-2024)
 - Jun 23 - [2024 AWS All Certifications Engineersへの道](https://zenn.dev/issy/articles/load-to-aws-all-certifications-12x-2024)
 - Jun 03 - [【初心者向け】AWS Transit Gateway 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-transitgw-overview)
-- May 08 - [【アップデート】自動的に割り当てられたパブリック IPv4 アドレスの動的な削除と追加をサポート](https://zenn.dev/issy/articles/zenn-ec2-update-remove-public-ip)
-- Apr 22 - [【実例】Python 3.12用psycopg2のLambdaレイヤーを作成する](https://zenn.dev/issy/articles/zenn-lambda-layer-psycopg2-tried-it)
-- Apr 09 - [あれ？リソースがなくなっている！？とならないためにデフォルトリージョンを](https://zenn.dev/issy/articles/zenn-aws-account-default-region)
-- Apr 05 - [【アップデート】新しい CloudWatch メトリクス MetadataNoTokenRejected が利用できるようになりました](https://zenn.dev/issy/articles/zenn-ec2-imdsv2-only)
-- Mar 29 - [【やってみた】Amazon Bedrockを利用した画像生成アプリケーションをAWS CDKで開発してみた！](https://zenn.dev/issy/articles/zenn-bedrock-apigw-tried-it)
-- Mar 23 - [【実例】Amazon API Gateway を S3 プロキシにして簡易スタブ API でテスト効率化！](https://zenn.dev/issy/articles/zenn-apigw-s3-stub-tried-it)
 <!-- zenn end -->
 
 ## Qiita
