@@ -38,7 +38,7 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
-- Dec 24 - [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/issy929/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
+- Dec 24 - [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
 - Dec 21 - [AWS CDK 100 Drill Exercises #003: VPC Basics — From Network Configuration to Security](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-003-vpc-basics-from-network-configuration-to-security-4a43)
 - Dec 09 - [AWS CDK 100 Drill Exercises #002: IAM Basics —— Users, Roles, and Secure Password Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-002-iam-basics-users-roles-and-secure-password-management-1npa)
 - Dec 07 - [AWS CDK 100 Drill Exercises: Index & Progress (#001-#010)](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-index-progress-001-010-27bk)
