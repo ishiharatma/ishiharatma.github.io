@@ -38,6 +38,7 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- Dec 24 - [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/issy929/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
 - Dec 21 - [AWS CDK 100 Drill Exercises #003: VPC Basics — From Network Configuration to Security](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-003-vpc-basics-from-network-configuration-to-security-4a43)
 - Dec 09 - [AWS CDK 100 Drill Exercises #002: IAM Basics —— Users, Roles, and Secure Password Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-002-iam-basics-users-roles-and-secure-password-management-1npa)
 - Dec 07 - [AWS CDK 100 Drill Exercises: Index & Progress (#001-#010)](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-index-progress-001-010-27bk)
@@ -49,7 +50,6 @@ type: page
 - Aug 27 - [Prevent Wrong Account Operations — AWS Official Header Color Feature Now Available](https://dev.to/aws-builders/prevent-wrong-account-operations-aws-official-header-color-feature-now-available-1lgc)
 - Jun 21 - [Building an AWS Summit Japan 2025 Mini Stage Schedule Viewer with Amazon Q CLI - Complete Implementation and Article Generation](https://dev.to/aws-builders/building-an-aws-summit-japan-2025-mini-stage-schedule-viewer-with-amazon-q-cli-complete-1ci7)
 - Jun 11 - [AWS CDK Logical ID Deep Dive: How Adding One CloudFront Origin Broke My Entire AWS CDK Deployment](https://dev.to/aws-builders/aws-cdk-logical-id-deep-dive-how-adding-one-cloudfront-origin-broke-my-entire-aws-cdk-deployment-5n)
-- May 25 - [Build Games with Amazon Q CLI and Get a Free T-shirt! 🏆👕](https://dev.to/aws-builders/build-games-with-amazon-q-cli-and-get-a-free-t-shirt-1h4g)
 <!-- devdotto end -->
 
 ## GitHub
