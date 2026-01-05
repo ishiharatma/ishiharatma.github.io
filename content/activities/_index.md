@@ -30,10 +30,10 @@ type: page
 
 ## Qiita
 <!-- qiita start -->
+- Jan 05 - [さくらのクラウドを基礎から学ぶ──(1)さくらのクラウドとは？](https://qiita.com/issy929/items/59f9aa0ba65f9c32ce64)
 - Aug 27 - [【アップデート】間違ったアカウントでの作業を防止——AWS公式ヘッダ色付け機能が登場](https://qiita.com/issy929/items/385678c0b16dca971737)
 - Jun 28 - [AWS Summit 2025 Community Stage全セッション＆資料まとめ](https://qiita.com/issy929/items/e02154bea72c4cff3106)
 - Jun 21 - [AWS Summit 2025 ミニステージスケジュールビューアーを作ってみた【Amazon Q CLIが実装と記事作成を全部やりました】](https://qiita.com/issy929/items/0eee86eb730206041a00)
-- Jun 12 - [AWS CDKでCloudFrontオリジンを追加したらデプロイが失敗した話 —— 論理ID生成の罠と回避策](https://qiita.com/issy929/items/6a790bd9f051f8751ab2)
 <!-- qiita end -->
 
 ## Dev.to
