@@ -30,7 +30,7 @@ type: page
 
 ## Qiita
 <!-- qiita start -->
-- Jan 07 - [さくらのクラウドを基礎から学ぶ──(2)さくらのクラウド検定の勉強──デジタル技術の基礎](https://qiita.com/issy929/items/d3593918fe3c142ddb75)
+- Jan 07 - [さくらのクラウドを基礎から学ぶ──(2)さくらのクラウド検定の勉強──1.デジタル技術の基礎](https://qiita.com/issy929/items/d3593918fe3c142ddb75)
 - Jan 06 - [Kiro IDE Remoteってどんなもの？ちょっとだけ動かしてみた](https://qiita.com/issy929/items/25a6c9fe856cdecac9a5)
 - Jan 05 - [さくらのクラウドを基礎から学ぶ──(1)さくらのクラウドとは？](https://qiita.com/issy929/items/59f9aa0ba65f9c32ce64)
 - Aug 27 - [【アップデート】間違ったアカウントでの作業を防止——AWS公式ヘッダ色付け機能が登場](https://qiita.com/issy929/items/385678c0b16dca971737)
