@@ -30,10 +30,10 @@ type: page
 
 ## Qiita
 <!-- qiita start -->
-- Jan 13 - [さくらのクラウドを基礎から学ぶ──(3)さくらのクラウド検定の勉強──2.さくらインターネットのサービス](https://qiita.com/issy929/items/6c9c47f81651ae58b7f7)
-- Jan 07 - [さくらのクラウドを基礎から学ぶ──(2)さくらのクラウド検定の勉強──1.デジタル技術の基礎](https://qiita.com/issy929/items/d3593918fe3c142ddb75)
-- Jan 06 - [Kiro IDE Remoteってどんなもの？ちょっとだけ動かしてみた](https://qiita.com/issy929/items/25a6c9fe856cdecac9a5)
-- Jan 05 - [さくらのクラウドを基礎から学ぶ──(1)さくらのクラウドとは？](https://qiita.com/issy929/items/59f9aa0ba65f9c32ce64)
+- Jan 13 - [さくらのクラウドを基礎から学ぶ──(5)さくらのクラウド検定──3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（ストレージ）](https://qiita.com/issy929/items/e7c0febc8592b8274d28)
+- Jan 13 - [さくらのクラウドを基礎から学ぶ──(4)さくらのクラウド検定──3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（コンピューティング）](https://qiita.com/issy929/items/d5d20e4469aab06a2147)
+- Jan 13 - [さくらのクラウドを基礎から学ぶ──(3)さくらのクラウド検定──2.さくらインターネットのサービス](https://qiita.com/issy929/items/6c9c47f81651ae58b7f7)
+- Jan 07 - [さくらのクラウドを基礎から学ぶ──(2)さくらのクラウド検定──1.デジタル技術の基礎](https://qiita.com/issy929/items/d3593918fe3c142ddb75)
 <!-- qiita end -->
 
 ## Dev.to
