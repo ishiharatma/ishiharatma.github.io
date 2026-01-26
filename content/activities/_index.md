@@ -38,6 +38,7 @@ type: page
 
 ## Dev.to
 <!-- devdotto start -->
+- Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
 - Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
 - Dec 26 - [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
 - Dec 24 - [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
@@ -49,7 +50,6 @@ type: page
 - Nov 25 - [Mastering AWS CDK #3 - AWS CDK Development: Best Practices and Workflow](https://dev.to/aws-builders/mastering-aws-cdk-3-aws-cdk-development-best-practices-and-workflow-1f37)
 - Sep 10 - [AI-Powered Code Reviews with OpenRouter - Complete PR-Agent Setup Guide](https://dev.to/issy929/ai-powered-code-reviews-with-openrouter-complete-pr-agent-setup-guide-5m3)
 - Sep 10 - [CloudFront ECDSA Signed URLs: 91% Faster Generation, 55% Shorter URLs](https://dev.to/aws-builders/cloudfront-ecdsa-signed-urls-91-faster-generation-53-shorter-urls-54nf)
-- Aug 27 - [Prevent Wrong Account Operations — AWS Official Header Color Feature Now Available](https://dev.to/aws-builders/prevent-wrong-account-operations-aws-official-header-color-feature-now-available-1lgc)
 <!-- devdotto end -->
 
 ## GitHub
