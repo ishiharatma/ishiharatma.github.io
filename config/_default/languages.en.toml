@@ -1,11 +1,11 @@
-locale = "en"
-label = "English"
 weight = 1
 title = "issy's Portfolio"
 
 [params]
   displayName = "English"
   isoCode = "en"
+  locale = "en"
+  label = "English"
   rtl = false
   dateFormat = "2 January 2006"
   description = "Cloud Engineer | AWS Top Engineer | AWS Community Builder"
