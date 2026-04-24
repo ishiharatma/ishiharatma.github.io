@@ -30,9 +30,9 @@ showTableOfContents: false
 
 ## Qiita
 <!-- qiita start -->
+- Feb 12 - [公式より便利？JAWS DAYS 2026のタイムテーブルビューアーを作ってみた](https://qiita.com/issy929/items/81b9fe3c8b2888aa4bee)
 - Jan 15 - [さくらのクラウドを基礎から学ぶ──(7)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（DB）](https://qiita.com/issy929/items/306e7fbe5c7528a4bc10)
 - Jan 15 - [さくらのクラウドを基礎から学ぶ──(6)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（NW）](https://qiita.com/issy929/items/34b82564c254d9658e20)
-- Jan 15 - [さくらのクラウドを基礎から学ぶ──(8)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（データ処理）](https://qiita.com/issy929/items/f3761099397a63ee0cdf)
 - Jan 15 - [さくらのクラウドを基礎から学ぶ──(9)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（他サービスとの連携）](https://qiita.com/issy929/items/74fdf949a6b08a53cdc1)
 <!-- qiita end -->
 
