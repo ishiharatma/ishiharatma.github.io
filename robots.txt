@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://ishiharatma.github.io/sitemap.xml
