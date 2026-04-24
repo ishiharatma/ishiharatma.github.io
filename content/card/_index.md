@@ -1,6 +1,6 @@
 ---
 title: "Card"
-type: page
+showTableOfContents: false
 ---
 
 ## Profile<!-- omit in toc -->

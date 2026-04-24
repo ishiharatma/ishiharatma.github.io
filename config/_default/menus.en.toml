@@ -1,0 +1,33 @@
+# -- Main Menu --
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Activities"
+  pageRef = "activities"
+  weight = 20
+
+[[main]]
+  name = "Card"
+  pageRef = "card"
+  weight = 30
+
+[[main]]
+  name = "Timeline"
+  url = "/timeline.html"
+  weight = 40
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/ishiharatma"
+  weight = 50
+
+[[main]]
+  identifier = "rss"
+  pre = "rss"
+  url = "https://zenn.dev/issy/feed"
+  weight = 60

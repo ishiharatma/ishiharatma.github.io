@@ -1,6 +1,6 @@
 ---
 title: "Activities"
-type: page
+showTableOfContents: false
 ---
 
 ## Zenn

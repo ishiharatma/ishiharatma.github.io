@@ -1,0 +1,25 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "issy's Portfolio"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Cloud Engineer | AWS Top Engineer | AWS Community Builder"
+
+[params.author]
+  name = "TOMOAKI Ishihara"
+  image = "images/top.jpg"
+  headline = "Cloud Engineer | AWS Top Engineer 2024/2025 | AWS Community Builder"
+  bio = "AWS All Certifications Engineer 2024/2025 · Japan AWS Top Engineers 2024/2025 · AWS Community Builder (Dev Tools)"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/tomoaki-ishihara-a48232203/" },
+    { x-twitter = "https://twitter.com/issy929" },
+    { github = "https://github.com/ishiharatma" },
+    { dev = "https://dev.to/issy929" },
+    { zenn = "https://zenn.dev/issy" },
+    { rss = "https://zenn.dev/issy/feed" },
+  ]
