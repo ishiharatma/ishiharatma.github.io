@@ -19,6 +19,8 @@ enableEmoji = true
     ordered = false
   [markup.highlight]
     noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [minify]
   minifyOutput = true
