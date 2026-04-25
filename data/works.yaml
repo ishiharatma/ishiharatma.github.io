@@ -1,0 +1,45 @@
+# Works データファイル
+# 新しい作品を追加するにはこのリストに項目を追記するだけ。
+#
+# 各フィールド:
+#   title       : 作品タイトル（必須）
+#   description : 短い説明文（任意）
+#   image       : サムネイル画像パス or URL。例: /images/works/my-tool.png（任意、空ならアイコン表示）
+#   tags        : 使用技術タグのリスト（任意）
+#   article     : 解説記事のリンク
+#     label     : ボタンラベル（例: "Qiita", "Zenn", "dev.to"）
+#     url       : URL
+#   demo        : 実物・デモのリンク
+#     label     : ボタンラベル（例: "Demo", "Live"）
+#     url       : URL
+#   repo        : ソースコードのリンク
+#     label     : ボタンラベル（例: "GitHub"）
+#     url       : URL
+
+- title: "AWS Summit Japan 2025 ミニステージスケジュールビューアー"
+  description: "AWS Summit Japan 2025 のミニステージ 80 件をGoogleカレンダー風UIで表示。セッション詳細モーダル・Googleカレンダー連携に対応。Amazon Q CLI で実装と記事作成を実施。"
+  image: ""
+  tags: ["HTML", "JavaScript", "Amazon Q CLI", "GitHub Pages"]
+  article:
+    label: "Qiita"
+    url: "https://qiita.com/issy929/items/0eee86eb730206041a00"
+  demo:
+    label: "Demo"
+    url: "https://ishiharatma.github.io/aws-summit-2025-viewer/"
+  repo:
+    label: "GitHub"
+    url: "https://github.com/ishiharatma/aws-summit-2025-viewer"
+
+- title: "JAWS DAYS 2026 タイムテーブルビューアー"
+  description: "JAWS DAYS 2026 のタイムテーブルを見やすく表示するビューアー。公式サイトより直感的に確認できるUIを目指して作成。"
+  image: ""
+  tags: ["HTML", "JavaScript", "GitHub Pages"]
+  article:
+    label: "Qiita"
+    url: "https://qiita.com/issy929/items/81b9fe3c8b2888aa4bee"
+  demo:
+    label: "Demo"
+    url: "https://ishiharatma.github.io/aws-jawsdays2026-timetable-unofficial/"
+  repo:
+    label: "GitHub"
+    url: "https://github.com/ishiharatma/aws-jawsdays2026-timetable-unofficial"
