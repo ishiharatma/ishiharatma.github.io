@@ -78,44 +78,44 @@ showTableOfContents: true
 {{< accordion separated="true" >}}
 
 {{< accordionItem title="🏅 AWS Certification (12)" open="true" >}}
-{{< gallery >}}
-<a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank"><img src="/images/aws/aws-certified-solutions-architect-professional(90x90).png" alt="AWS Solutions Architect Professional" /></a>
-<a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank"><img src="/images/aws/aws-certified-devops-engineer-professional(90x90).png" alt="AWS DevOps Engineer Professional" /></a>
-<a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank"><img src="/images/aws/aws-certified-solutions-architect-associate(90x90).png" alt="AWS Solutions Architect Associate" /></a>
-<a href="https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url" target="_blank"><img src="/images/aws/aws-certified-sysops-administrator-associate(90x90).png" alt="AWS SysOps Administrator Associate" /></a>
-<a href="https://www.credly.com/badges/c9c3cbc4-e32c-45d2-8b0f-c13ccd5cd74d/public_url" target="_blank"><img src="/images/aws/aws-certified-developer-associate(90x90).png" alt="AWS Developer Associate" /></a>
-<a href="https://www.credly.com/badges/7d821faa-b147-4a75-99f6-d31b8636786a/public_url" target="_blank"><img src="/images/aws/aws-certified-cloud-practitioner(90x90).png" alt="AWS Cloud Practitioner" /></a>
-<a href="https://www.credly.com/badges/7fa93a22-d41f-4bb4-b448-6a2eed1bd848/public_url" target="_blank"><img src="/images/aws/aws-certified-security-specialty(90x90).png" alt="AWS Security Specialty" /></a>
-<a href="https://www.credly.com/badges/89723402-7735-417d-a106-f710c2f3b598/public_url" target="_blank"><img src="/images/aws/aws-certified-advanced-networking-specialty(90x90).png" alt="AWS Advanced Networking Specialty" /></a>
-<a href="https://www.credly.com/badges/57be108d-6997-4334-aa63-257c4fb43a7e/public_url" target="_blank"><img src="/images/aws/aws-certified-database-specialty(90x90).png" alt="AWS Database Specialty" /></a>
-<a href="https://www.credly.com/badges/84364214-cac5-4050-841f-6ffac4f7f72f/public_url" target="_blank"><img src="/images/aws/aws-certified-data-analytics-specialty(90x90).png" alt="AWS Data Analytics Specialty" /></a>
-<a href="https://www.credly.com/badges/04670fe9-97f9-4762-b8ed-26ab5dc2faeb/public_url" target="_blank"><img src="/images/aws/aws-certified-sap-on-aws-specialty(90x90).png" alt="AWS SAP on AWS Specialty" /></a>
-<a href="https://www.credly.com/badges/04670fe9-97f9-4762-b8ed-26ab5dc2faeb/public_url" target="_blank"><img src="/images/aws/aws-certified-machine-learning-specialty(90x90).png" alt="AWS Machine Learning Specialty" /></a>
-{{< /gallery >}}
+<div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
+<a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank"><img src="/images/aws/aws-certified-solutions-architect-professional(90x90).png" alt="AWS Solutions Architect Professional" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank"><img src="/images/aws/aws-certified-devops-engineer-professional(90x90).png" alt="AWS DevOps Engineer Professional" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank"><img src="/images/aws/aws-certified-solutions-architect-associate(90x90).png" alt="AWS Solutions Architect Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url" target="_blank"><img src="/images/aws/aws-certified-sysops-administrator-associate(90x90).png" alt="AWS SysOps Administrator Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/c9c3cbc4-e32c-45d2-8b0f-c13ccd5cd74d/public_url" target="_blank"><img src="/images/aws/aws-certified-developer-associate(90x90).png" alt="AWS Developer Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/7d821faa-b147-4a75-99f6-d31b8636786a/public_url" target="_blank"><img src="/images/aws/aws-certified-cloud-practitioner(90x90).png" alt="AWS Cloud Practitioner" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/7fa93a22-d41f-4bb4-b448-6a2eed1bd848/public_url" target="_blank"><img src="/images/aws/aws-certified-security-specialty(90x90).png" alt="AWS Security Specialty" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/89723402-7735-417d-a106-f710c2f3b598/public_url" target="_blank"><img src="/images/aws/aws-certified-advanced-networking-specialty(90x90).png" alt="AWS Advanced Networking Specialty" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/57be108d-6997-4334-aa63-257c4fb43a7e/public_url" target="_blank"><img src="/images/aws/aws-certified-database-specialty(90x90).png" alt="AWS Database Specialty" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/84364214-cac5-4050-841f-6ffac4f7f72f/public_url" target="_blank"><img src="/images/aws/aws-certified-data-analytics-specialty(90x90).png" alt="AWS Data Analytics Specialty" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/04670fe9-97f9-4762-b8ed-26ab5dc2faeb/public_url" target="_blank"><img src="/images/aws/aws-certified-sap-on-aws-specialty(90x90).png" alt="AWS SAP on AWS Specialty" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/ba825004-8b1a-49f8-a266-87d6b3fc8797/public_url" target="_blank"><img src="/images/aws/aws-certified-machine-learning-specialty(90x90).png" alt="AWS Machine Learning Specialty" style="width:90px;height:90px;margin:0;" /></a>
+</div>
 {{< /accordionItem >}}
 
 {{< accordionItem title="🎮 AWS Cloud Quest (7)" >}}
-{{< gallery >}}
-<a href="https://www.credly.com/badges/b967f1e4-9e6e-46d6-9ffb-cdecb437c761/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-cloud-practitioner(90x90).png" alt="Cloud Quest: Cloud Practitioner" /></a>
-<a href="https://www.credly.com/badges/028ffc84-6d7a-4429-844a-8221ac22f2d8/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-security(90x90).png" alt="Cloud Quest: Security" /></a>
-<a href="https://www.credly.com/badges/edc90c52-6bbc-41fa-9ddb-2ccda121132e/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-solutions-architect(90x90).png" alt="Cloud Quest: Solutions Architect" /></a>
-<a href="https://www.credly.com/badges/bdde8fbc-2236-40c1-a261-576d752248bd/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-serverless-developer(90x90).png" alt="Cloud Quest: Serverless Developer" /></a>
-<a href="https://www.credly.com/badges/4758de7e-52cc-4791-9507-467d83339965/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-data-analytics(90x90).png" alt="Cloud Quest: Data Analytics" /></a>
-<a href="https://www.credly.com/badges/bc5ebe9a-8942-41f4-bf16-4a99cb0f4a7d/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-networking(90x90).png" alt="Cloud Quest: Networking" /></a>
-<a href="https://www.credly.com/badges/78b39aff-083b-465a-a61a-38daff1d648d/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-machine-learning(90x90).png" alt="Cloud Quest: Machine Learning" /></a>
-{{< /gallery >}}
+<div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
+<a href="https://www.credly.com/badges/b967f1e4-9e6e-46d6-9ffb-cdecb437c761/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-cloud-practitioner(90x90).png" alt="Cloud Quest: Cloud Practitioner" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/028ffc84-6d7a-4429-844a-8221ac22f2d8/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-security(90x90).png" alt="Cloud Quest: Security" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/edc90c52-6bbc-41fa-9ddb-2ccda121132e/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-solutions-architect(90x90).png" alt="Cloud Quest: Solutions Architect" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/bdde8fbc-2236-40c1-a261-576d752248bd/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-serverless-developer(90x90).png" alt="Cloud Quest: Serverless Developer" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/4758de7e-52cc-4791-9507-467d83339965/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-data-analytics(90x90).png" alt="Cloud Quest: Data Analytics" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/bc5ebe9a-8942-41f4-bf16-4a99cb0f4a7d/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-networking(90x90).png" alt="Cloud Quest: Networking" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/78b39aff-083b-465a-a61a-38daff1d648d/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-machine-learning(90x90).png" alt="Cloud Quest: Machine Learning" style="width:90px;height:90px;margin:0;" /></a>
+</div>
 {{< /accordionItem >}}
 
 {{< accordionItem title="☁️ Microsoft Azure Certification (7)" >}}
-{{< gallery >}}
-<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/2481EDFDC897A1C8?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-solutions-architect-expert.1(90x90).png" alt="Azure Solutions Architect Expert" /></a>
-<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/CD163B7320AF150B?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-devops-engineer-expert(90x90).png" alt="DevOps Engineer Expert" /></a>
-<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/AD0F409D98F08F4B?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-security-engineer-associate(90x90).png" alt="Azure Security Engineer Associate" /></a>
-<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/69657F58970BAFD4?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-network-engineer-associate(90x90).png" alt="Azure Network Engineer Associate" /></a>
-<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/DEB7ACB6807849C1?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-developer-associate.1(90x90).png" alt="Azure Developer Associate" /></a>
-<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/E1C6A3278E01E7E0?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-administrator-associate.2(90x90).png" alt="Azure Administrator Associate" /></a>
-<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/50F07DF8CDB1AFC?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-fundamentals(90x90).png" alt="Azure Fundamentals" /></a>
-{{< /gallery >}}
+<div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/2481EDFDC897A1C8?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-solutions-architect-expert.1(90x90).png" alt="Azure Solutions Architect Expert" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/CD163B7320AF150B?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-devops-engineer-expert(90x90).png" alt="DevOps Engineer Expert" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/AD0F409D98F08F4B?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-security-engineer-associate(90x90).png" alt="Azure Security Engineer Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/69657F58970BAFD4?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-network-engineer-associate(90x90).png" alt="Azure Network Engineer Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/DEB7ACB6807849C1?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-developer-associate.1(90x90).png" alt="Azure Developer Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/E1C6A3278E01E7E0?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-administrator-associate.2(90x90).png" alt="Azure Administrator Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/ishr-6997/50F07DF8CDB1AFC?sharingId=EC4CFA5845D2040B" target="_blank"><img src="/images/ms/microsoft-certified-azure-fundamentals(90x90).png" alt="Azure Fundamentals" style="width:90px;height:90px;margin:0;" /></a>
+</div>
 {{< /accordionItem >}}
 
 {{< accordionItem title="📋 情報処理技術者試験 / ITEE" >}}
