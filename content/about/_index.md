@@ -77,11 +77,12 @@ showTableOfContents: true
 <!-- ② 資格バッジ：accordion + gallery でグリッド表示 -->
 {{< accordion separated="true" >}}
 
-{{< accordionItem title="🏅 AWS Certification (12)" open="true" >}}
+{{< accordionItem title="🏅 AWS Certification (13)" open="true" >}}
 <div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
 <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank"><img src="/images/aws/aws-certified-solutions-architect-professional(90x90).png" alt="AWS Solutions Architect Professional" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank"><img src="/images/aws/aws-certified-devops-engineer-professional(90x90).png" alt="AWS DevOps Engineer Professional" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank"><img src="/images/aws/aws-certified-solutions-architect-associate(90x90).png" alt="AWS Solutions Architect Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/7e16d8e8-b9c6-4e2f-9714-6c22bc672b28/public_url" target="_blank"><img src="/images/aws/aws-certified-cloudops-engineer-associate(90x90).png" alt="AWS CloudOps Engineer Associate" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url" target="_blank"><img src="/images/aws/aws-certified-sysops-administrator-associate(90x90).png" alt="AWS SysOps Administrator Associate" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/c9c3cbc4-e32c-45d2-8b0f-c13ccd5cd74d/public_url" target="_blank"><img src="/images/aws/aws-certified-developer-associate(90x90).png" alt="AWS Developer Associate" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/7d821faa-b147-4a75-99f6-d31b8636786a/public_url" target="_blank"><img src="/images/aws/aws-certified-cloud-practitioner(90x90).png" alt="AWS Cloud Practitioner" style="width:90px;height:90px;margin:0;" /></a>
@@ -103,6 +104,18 @@ showTableOfContents: true
 <a href="https://www.credly.com/badges/4758de7e-52cc-4791-9507-467d83339965/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-data-analytics(90x90).png" alt="Cloud Quest: Data Analytics" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/bc5ebe9a-8942-41f4-bf16-4a99cb0f4a7d/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-networking(90x90).png" alt="Cloud Quest: Networking" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/78b39aff-083b-465a-a61a-38daff1d648d/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-machine-learning(90x90).png" alt="Cloud Quest: Machine Learning" style="width:90px;height:90px;margin:0;" /></a>
+</div>
+{{< /accordionItem >}}
+
+{{< accordionItem title="🎮 APN (6)" >}}
+<div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
+<a href="https://www.credly.com/badges/fd256c8b-083e-490d-a2b3-6582116bfda9/public_url" target="_blank"><img src="/images/aws/aws-knowledge-amazon-q-developer-fundamentals-train(90x90).png" alt="AWS Knowledge: Amazon Q Developer Fundamentals" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/c66de1e5-c2a5-433a-bca3-796c2fca66cc/public_url" target="_blank"><img src="/images/aws/aws-partner-agentic-ai-essentials-training-badge(90x90).png" alt="AWS Partner: Agentic AI Essentials" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/4f5abb4b-83dd-48a4-b014-92340aa67f99/public_url" target="_blank"><img src="/images/aws/aws-partner-generative-ai-essentials-training-badge(90x90).png" alt="AWS Partner: Generative AI Essentials" style="width:90px;height:90px;margin:0;" /></a>
+</div>
+<a href="https://www.credly.com/badges/3b1bfb69-695a-44b8-9eba-988407b369e8/public_url" target="_blank"><img src="/images/aws/aws-partner-generative-ai-sales-training-badge(90x90).png" alt="AWS Partner: Generative AI Sales" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/cd47b8e6-0cf0-4cd3-8d6b-3d19be53bea1/public_url" target="_blank"><img src="/images/aws/aws-partner-sales-accreditation-training-badge(90x90).png" alt="AWS Partner: Sales Accreditation" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/0bef4b8d-a297-4cb7-b893-92f841a0285b/public_url" target="_blank"><img src="/images/aws/aws-partner-technical-accredited-training-badge(90x90).png" alt="AWS Partner: Technical Accredited" style="width:90px;height:90px;margin:0;" /></a>
 </div>
 {{< /accordionItem >}}
 
@@ -142,10 +155,6 @@ showTableOfContents: true
 - [生成AIパスポート試験](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dy81TXUrTEF2VVA4VkdKTFBVaGpuUT09) (November 15, 2024)
   - ![生成AIパスポート](../images/generative-ai-passport-logo-320.jpg)
 - 普通自動車第一種運転免許 / Driver's License
-- [AWS Partner: Sales Accreditation](https://www.credly.com/badges/cd47b8e6-0cf0-4cd3-8d6b-3d19be53bea1/public_url)
-- [AWS Partner: Technical Accredited](https://www.credly.com/badges/0bef4b8d-a297-4cb7-b893-92f841a0285b/public_url)
-- [AWS Partner: Generative AI Essentials](https://www.credly.com/badges/4f5abb4b-83dd-48a4-b014-92340aa67f99/public_url)
-- [AWS Knowledge: Amazon Q Developer Fundamentals](https://www.credly.com/badges/fd256c8b-083e-490d-a2b3-6582116bfda9/public_url)
 
 {{< /accordionItem >}}
 
