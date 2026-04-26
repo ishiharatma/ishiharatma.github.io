@@ -107,7 +107,7 @@ showTableOfContents: true
 </div>
 {{< /accordionItem >}}
 
-{{< accordionItem title="🎮 APN (6)" >}}
+{{< accordionItem title="🏅 APN (6)" >}}
 <div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
 <a href="https://www.credly.com/badges/fd256c8b-083e-490d-a2b3-6582116bfda9/public_url" target="_blank"><img src="/images/aws/aws-knowledge-amazon-q-developer-fundamentals-train(90x90).png" alt="AWS Knowledge: Amazon Q Developer Fundamentals" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/c66de1e5-c2a5-433a-bca3-796c2fca66cc/public_url" target="_blank"><img src="/images/aws/aws-partner-agentic-ai-essentials-training-badge(90x90).png" alt="AWS Partner: Agentic AI Essentials" style="width:90px;height:90px;margin:0;" /></a>
@@ -172,25 +172,34 @@ TBD
 <!-- ① 職歴をタイムライン化 -->
 {{< timeline >}}
 
-{{< timelineItem icon="star" header="2024" badge="NTT DATA CCS" md="true" >}}
+{{< timelineItem icon="star" header="2025" badge="NTT DATA CCS" md="true" >}}
+- **2025 AWS Top Engineers & All Certifications Engineers** 受賞
+- AWS Community Builders(DevTools)の認定（2025年の認定者1,007人、日本人は69人）
+- 2025年10月、AWS社内勉強会3周年（開催実績：36 回）
+- 社内で初のAWS BuilderCards体験会を主催
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="2024" badge="NTT DATA CCS" md="true" >}}
 - ArcGIS Enterprise を AWS 上で構築・IaC 化
 - 社内初の **2024 AWS Top Engineers & All Certifications Engineers** 受賞
 - 受賞を受けた社内講演会の企画・登壇（参加者 100 名以上）
 - CCoE 設立活動に参加
 - 社内スペシャリスト制度の見直しに参画・助言
 - 社内 AWS 検証環境のアカウントセキュリティポリシー策定を支援
+- 2024年10月、AWS社内勉強会2周年（開催実績：24 回）
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2023" badge="NTT DATA CCS" md="true" >}}
 - オンプレ案件に AWS 早期レビュー環境を提案・構築（遠隔顧客との月次レビューを実現）
 - Figma を導入してプロトタイプによる画面レビューの生産性を向上
 - 社内 AWS 案件のレビュー・相談を担当
+- 2023年10月、AWS社内勉強会1周年（開催実績：12 回）
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2022" badge="NTT DATA CCS" md="true" >}}
 - eラーニング SaaS とのシングルサインオンに Keycloak を採用（Amazon ECS / Fargate）
 - **AWS CDK** による IaC を導入
-- 月次 AWS 社内勉強会を発足（2024年時点で 26 回開催）
+- 2022年10月、月次 AWS 社内勉強会を発足
 - Zenn での勉強会記事投稿を開始
 {{< /timelineItem >}}
 
