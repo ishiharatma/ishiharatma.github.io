@@ -38,6 +38,7 @@ showTableOfContents: false
 
 ## Dev.to
 <!-- devdotto start -->
+- May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
 - Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
 - Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
 - Dec 26 - [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
@@ -49,7 +50,6 @@ showTableOfContents: false
 - Dec 02 - [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
 - Nov 25 - [Mastering AWS CDK #3 - AWS CDK Development: Best Practices and Workflow](https://dev.to/aws-builders/mastering-aws-cdk-3-aws-cdk-development-best-practices-and-workflow-1f37)
 - Sep 10 - [AI-Powered Code Reviews with OpenRouter - Complete PR-Agent Setup Guide](https://dev.to/issy929/ai-powered-code-reviews-with-openrouter-complete-pr-agent-setup-guide-5m3)
-- Sep 10 - [CloudFront ECDSA Signed URLs: 91% Faster Generation, 55% Shorter URLs](https://dev.to/aws-builders/cloudfront-ecdsa-signed-urls-91-faster-generation-53-shorter-urls-54nf)
 <!-- devdotto end -->
 
 ## GitHub
