@@ -30,8 +30,8 @@ showTableOfContents: false
 
 ## Qiita
 <!-- qiita start -->
+- May 19 - [【イベントレポート】2026/5/17 Security-JAWS【第41回】～Day2～ 「CTF」](https://qiita.com/issy929/items/2e09165a37655aab136d)
 - May 18 - [さくらのクラウドを基礎から学ぶ──(11)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─可用性と拡張性の設計](https://qiita.com/issy929/items/38951bd757d3e77a026a)
-- May 18 - [さくらのクラウドを基礎から学ぶ──(12)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─コストパフォーマンスの設計](https://qiita.com/issy929/items/b5c8dcd0ca005d64c692)
 - May 18 - [さくらのクラウドを基礎から学ぶ──(10)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─セキュリティの設計](https://qiita.com/issy929/items/51a9ecacd956223e3cd0)
 - May 18 - [さくらのクラウドを基礎から学ぶ──(13)検定ラボとは？](https://qiita.com/issy929/items/cd086ffbdfb835a49001)
 <!-- qiita end -->
