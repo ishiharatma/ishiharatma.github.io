@@ -30,10 +30,10 @@ showTableOfContents: false
 
 ## Qiita
 <!-- qiita start -->
-- May 19 - [【イベントレポート】2026/5/17 Security-JAWS【第41回】～Day2～ 「CTF」](https://qiita.com/issy929/items/2e09165a37655aab136d)
-- May 18 - [さくらのクラウドを基礎から学ぶ──(11)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─可用性と拡張性の設計](https://qiita.com/issy929/items/38951bd757d3e77a026a)
-- May 18 - [さくらのクラウドを基礎から学ぶ──(10)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─セキュリティの設計](https://qiita.com/issy929/items/51a9ecacd956223e3cd0)
-- May 18 - [さくらのクラウドを基礎から学ぶ──(13)検定ラボとは？](https://qiita.com/issy929/items/cd086ffbdfb835a49001)
+- May 20 - [さくらのクラウド検定アドバンスド──(03)データベース](https://qiita.com/issy929/items/cd6faccee6e6d7222ed5)
+- May 20 - [さくらのクラウド検定アドバンスド──(04)コンテンツ配信](https://qiita.com/issy929/items/f10b6b832cbca6b0f21b)
+- May 20 - [さくらのクラウド検定アドバンスド──(05)クラウドの運用管理](https://qiita.com/issy929/items/d389b8c5f9625f0073a5)
+- May 20 - [さくらのクラウド検定アドバンスド──(02)アプリケーション基盤の高度化](https://qiita.com/issy929/items/ec39755156d25d2e3eb8)
 <!-- qiita end -->
 
 ## Dev.to
