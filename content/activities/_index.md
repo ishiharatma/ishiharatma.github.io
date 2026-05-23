@@ -6,6 +6,10 @@ showTableOfContents: false
 ## Zenn
 
 <!-- zenn start -->
+- May 20 - [【実例】AIは忘れる。だから仕様書に全部書く — GitHub Copilot を"記憶喪失"から救う6つのドキュメント管理術](https://zenn.dev/issy/articles/ai-spec-driven-development-knowhow)
+- May 11 - [【初心者向け】Amazon EBS 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ebs-overview)
+- May 11 - [【初心者向け】Amazon Athena 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-athena-overview)
+- May 11 - [【初心者向け】AWS Amplify Gen2 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-amplify-overview)
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(6/6) 監査者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-03-auditor)
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(4/6) 申請者/承認者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-01-requestor-and-approver)
@@ -22,22 +26,19 @@ showTableOfContents: false
 - Aug 22 - [【初心者向け】Aamazon GuardDuty Malware Protection for S3 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-guardduty-s3-malware-protection-overview)
 - Jul 22 - [【初心者向け】AWS CDK 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cdk-overview)
 - Jul 18 - [【実例】これで解決！AWS CDKのバージョン違いで起こったデプロイ障害とその対策](https://zenn.dev/issy/articles/aws-cdk-trouble-nat-instance-v2)
-- Jul 03 - [書籍「Amazon Bedrock 生成AIアプリ開発入門-第４章-」 × AWS Summit Japan 2024](https://zenn.dev/issy/articles/bedrock-book-aws-summit-2024)
-- Jun 30 - [AWS Summit Japan 2024 参加メモ～AWS Summit Japan 2025に向けての歩き方～](https://zenn.dev/issy/articles/aws-summit-japan-2024)
-- Jun 23 - [2024 AWS All Certifications Engineersへの道](https://zenn.dev/issy/articles/load-to-aws-all-certifications-12x-2024)
-- Jun 03 - [【初心者向け】AWS Transit Gateway 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-transitgw-overview)
 <!-- zenn end -->
 
 ## Qiita
 <!-- qiita start -->
-- Feb 12 - [公式より便利？JAWS DAYS 2026のタイムテーブルビューアーを作ってみた](https://qiita.com/issy929/items/81b9fe3c8b2888aa4bee)
-- Jan 15 - [さくらのクラウドを基礎から学ぶ──(7)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（DB）](https://qiita.com/issy929/items/306e7fbe5c7528a4bc10)
-- Jan 15 - [さくらのクラウドを基礎から学ぶ──(6)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（NW）](https://qiita.com/issy929/items/34b82564c254d9658e20)
-- Jan 15 - [さくらのクラウドを基礎から学ぶ──(9)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（他サービスとの連携）](https://qiita.com/issy929/items/74fdf949a6b08a53cdc1)
+- May 21 - [さくらのクラウド検定アドバンスド──(06)セキュリティとガバナンス](https://qiita.com/issy929/items/54cfe16d93275e03ce0a)
+- May 20 - [さくらのクラウド検定アドバンスド──(03)データベース](https://qiita.com/issy929/items/cd6faccee6e6d7222ed5)
+- May 20 - [さくらのクラウド検定アドバンスド──(04)コンテンツ配信](https://qiita.com/issy929/items/f10b6b832cbca6b0f21b)
+- May 20 - [さくらのクラウド検定アドバンスド──(05)クラウドの運用管理](https://qiita.com/issy929/items/d389b8c5f9625f0073a5)
 <!-- qiita end -->
 
 ## Dev.to
 <!-- devdotto start -->
+- May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
 - Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
 - Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
 - Dec 26 - [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
@@ -49,7 +50,6 @@ showTableOfContents: false
 - Dec 02 - [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
 - Nov 25 - [Mastering AWS CDK #3 - AWS CDK Development: Best Practices and Workflow](https://dev.to/aws-builders/mastering-aws-cdk-3-aws-cdk-development-best-practices-and-workflow-1f37)
 - Sep 10 - [AI-Powered Code Reviews with OpenRouter - Complete PR-Agent Setup Guide](https://dev.to/issy929/ai-powered-code-reviews-with-openrouter-complete-pr-agent-setup-guide-5m3)
-- Sep 10 - [CloudFront ECDSA Signed URLs: 91% Faster Generation, 55% Shorter URLs](https://dev.to/aws-builders/cloudfront-ecdsa-signed-urls-91-faster-generation-53-shorter-urls-54nf)
 <!-- devdotto end -->
 
 ## GitHub
