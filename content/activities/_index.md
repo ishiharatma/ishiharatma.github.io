@@ -30,10 +30,10 @@ showTableOfContents: false
 
 ## Qiita
 <!-- qiita start -->
+- May 25 - [さくらのクラウド検定アドバンスド──(07)デザインパターン](https://qiita.com/issy929/items/21a2f1dba9949abd19a9)
 - May 21 - [さくらのクラウド検定アドバンスド──(06)セキュリティとガバナンス](https://qiita.com/issy929/items/54cfe16d93275e03ce0a)
 - May 20 - [さくらのクラウド検定アドバンスド──(03)データベース](https://qiita.com/issy929/items/cd6faccee6e6d7222ed5)
 - May 20 - [さくらのクラウド検定アドバンスド──(04)コンテンツ配信](https://qiita.com/issy929/items/f10b6b832cbca6b0f21b)
-- May 20 - [さくらのクラウド検定アドバンスド──(05)クラウドの運用管理](https://qiita.com/issy929/items/d389b8c5f9625f0073a5)
 <!-- qiita end -->
 
 ## Dev.to
