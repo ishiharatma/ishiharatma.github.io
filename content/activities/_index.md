@@ -6,6 +6,7 @@ showTableOfContents: false
 ## Zenn
 
 <!-- zenn start -->
+- May 28 - [【AWS学習】AWS BuilderCards 2nd Edition 完全ガイド](https://zenn.dev/issy/articles/zenn-aws-buildercards)
 - May 20 - [【実例】AIは忘れる。だから仕様書に全部書く — GitHub Copilot を"記憶喪失"から救う6つのドキュメント管理術](https://zenn.dev/issy/articles/ai-spec-driven-development-knowhow)
 - May 11 - [【初心者向け】Amazon EBS 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ebs-overview)
 - May 11 - [【初心者向け】Amazon Athena 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-athena-overview)
@@ -25,7 +26,6 @@ showTableOfContents: false
 - Aug 22 - [【初心者向け】AWS IAM でのマルチアカウント管理入門！完全ガイド](https://zenn.dev/issy/articles/zenn-iam-multi-account)
 - Aug 22 - [【初心者向け】Aamazon GuardDuty Malware Protection for S3 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-guardduty-s3-malware-protection-overview)
 - Jul 22 - [【初心者向け】AWS CDK 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cdk-overview)
-- Jul 18 - [【実例】これで解決！AWS CDKのバージョン違いで起こったデプロイ障害とその対策](https://zenn.dev/issy/articles/aws-cdk-trouble-nat-instance-v2)
 <!-- zenn end -->
 
 ## Qiita
