@@ -188,20 +188,21 @@ TBD
 {{< timeline >}}
 
 {{< timelineItem icon="star" header="2026" badge="NTT DATA CCS" md="true" >}}
-- **AWS Community Builders(DevTools)**の認定更新(**2年目**)
+- 🏅 **AWS Community Builders(DevTools)** の認定更新(**2年目**)
 - 2026年10月、AWS社内勉強会4周年（開催実績：48 回）
+- 社内でAI活用のための相談コミュニティ「生成AIよもやま会」を発足
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2025" badge="NTT DATA CCS" md="true" >}}
-- **2025 AWS Top Engineers & All Certifications Engineers** 受賞
-- **AWS Community Builders(DevTools)**の認定（2025年の認定者1,007人、日本人は69人）
+- 🏅 **2025 AWS Top Engineers & All Certifications Engineers** 受賞
+- 🏅 **AWS Community Builders(DevTools)** の認定（2025年の認定者1,007人、日本人は69人）
 - 2025年10月、AWS社内勉強会3周年（開催実績：36 回）
 - 社内で初のAWS BuilderCards体験会(1回目)を主催
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2024" badge="NTT DATA CCS" md="true" >}}
 - ArcGIS Enterprise を AWS 上で構築・IaC 化
-- 社内初の **2024 AWS Top Engineers & All Certifications Engineers** 受賞
+- 🏅 社内初の **2024 AWS Top Engineers & All Certifications Engineers** 受賞
 - 受賞を受けた社内講演会の企画・登壇（参加者 100 名以上）
 - CCoE 設立活動に参加
 - 社内スペシャリスト制度の見直しに参画・助言
@@ -210,7 +211,7 @@ TBD
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2023" badge="NTT DATA CCS" md="true" >}}
-- オンプレ案件に AWS 早期レビュー環境を提案・構築（遠隔顧客との月次レビューを実現）
+- オンプレ案件に早期レビュー環境としてAWS活用を提案・構築（遠隔顧客との月次レビューを実現）
 - Figma を導入してプロトタイプによる画面レビューの生産性を向上
 - 社内 AWS 案件のレビュー・相談を担当
 - 2023年10月、AWS社内勉強会1周年（開催実績：12 回）
