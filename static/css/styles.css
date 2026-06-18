@@ -32,7 +32,7 @@ blockquote{padding:16px;background:#eee;}
 
 main{width:90%;background:#f4f4f4;margin:20px auto;box-shadow:0 2px 4px 0 rgba(0, 0, 0, 0.1);}
 
-header{padding:8vmin;background:url(../images/bgimg.jpg);background-size:cover;background-repeat:no-repeat;}
+header{padding:8vmin;background:url(../images/bgimg.png);background-size:cover;background-repeat:no-repeat;}
 header > section {}
 header > section > aside > span{background:url(../../content/images/icon-default-green.png);background-size:cover;width:12em;height:12em;border-radius:50%;display:inline-block;} /*profilepic.jpg can be replaced with your profile images OR any images hosted online e.g GRAVATAR (Sample image URL : https://s.gravatar.com/avatar/88b98081dc4f42c05a799b59c165306f?s=128 )*/
 header > section > aside{}

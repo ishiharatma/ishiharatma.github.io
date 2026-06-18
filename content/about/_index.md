@@ -58,15 +58,15 @@ showTableOfContents: true
 
 ## HONORS & AWARDS
 
-- **AWS Community Builder (Dev Tools)(2025)**
+- **AWS Community Builder (Dev Tools)(2025-26)**
   - ![AWS CB](../images/aws/Community-Builder-LinkedIn-1400px-ALT-320.jpg)
   - [AWS Community Builders](https://aws.amazon.com/jp/developer/community/community-builders/) / [My Page](https://builder.aws.com/community/@issy929)
 
-- **Japan AWS Top Engineers (2024 / 2025)**
+- **Japan AWS Top Engineers (2024-25)**
   - ![2024 Japan AWS Top Engineers](../images/aws/2024-Japan-AWS-Top-Engineers-Logo-320.jpg)
   - [APN Blog 2024](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/) / [APN Blog 2025](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/)
 
-- **Japan AWS All Certifications Engineers (2024 / 2025)**
+- **Japan AWS All Certifications Engineers (2024-25)**
   - ![2024 Japan AWS All Certifications Engineers](../images/aws/2024-All-Certs-Logo-320.jpg)
   - [APN Blog 2024](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/) / [APN Blog 2025](https://aws.amazon.com/jp/blogs/psa/2025-japan-all-aws-certifications-engineers/)
 
@@ -79,19 +79,28 @@ showTableOfContents: true
 
 {{< accordionItem title="🏅 AWS Certification (13)" open="true" >}}
 <div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
-<a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank"><img src="/images/aws/aws-certified-solutions-architect-professional(90x90).png" alt="AWS Solutions Architect Professional" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/4bf2788f-8bdf-4baf-8601-f6aff7e02f25/public_url" target="_blank"><img src="/images/aws/aws-certified-generative-ai-developer-professional(90x90).png" alt="AWS Generative AI Developer Professional" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank"><img src="/images/aws/aws-certified-devops-engineer-professional(90x90).png" alt="AWS DevOps Engineer Professional" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank"><img src="/images/aws/aws-certified-solutions-architect-professional(90x90).png" alt="AWS Solutions Architect Professional" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/e2a7e94d-1b94-4ba8-8ebf-95083fab21b0/public_url" target="_blank"><img src="/images/aws/aws-certified-data-engineer-associate(90x90).png" alt="AWS Data Engineer Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/c9c3cbc4-e32c-45d2-8b0f-c13ccd5cd74d/public_url" target="_blank"><img src="/images/aws/aws-certified-developer-associate(90x90).png" alt="AWS Developer Associate" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/ba825004-8b1a-49f8-a266-87d6b3fc8797/public_url" target="_blank"><img src="/images/aws/aws-certified-machine-learning-engineer-associate(90x90).png" alt="AWS Machine Learning Engineer Associate" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank"><img src="/images/aws/aws-certified-solutions-architect-associate(90x90).png" alt="AWS Solutions Architect Associate" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/7e16d8e8-b9c6-4e2f-9714-6c22bc672b28/public_url" target="_blank"><img src="/images/aws/aws-certified-cloudops-engineer-associate(90x90).png" alt="AWS CloudOps Engineer Associate" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url" target="_blank"><img src="/images/aws/aws-certified-sysops-administrator-associate(90x90).png" alt="AWS SysOps Administrator Associate" style="width:90px;height:90px;margin:0;" /></a>
-<a href="https://www.credly.com/badges/c9c3cbc4-e32c-45d2-8b0f-c13ccd5cd74d/public_url" target="_blank"><img src="/images/aws/aws-certified-developer-associate(90x90).png" alt="AWS Developer Associate" style="width:90px;height:90px;margin:0;" /></a>
-<a href="https://www.credly.com/badges/7d821faa-b147-4a75-99f6-d31b8636786a/public_url" target="_blank"><img src="/images/aws/aws-certified-cloud-practitioner(90x90).png" alt="AWS Cloud Practitioner" style="width:90px;height:90px;margin:0;" /></a>
-<a href="https://www.credly.com/badges/7fa93a22-d41f-4bb4-b448-6a2eed1bd848/public_url" target="_blank"><img src="/images/aws/aws-certified-security-specialty(90x90).png" alt="AWS Security Specialty" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/7d821faa-b147-4a75-99f6-d31b8636786a/public_url" target="_blank"><img src="/images/aws/aws-certified-ai-practitioner(90x90).png" alt="AWS AI Practitioner" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/95657748-4865-46b6-a0c3-e822d47334ee/public_url" target="_blank"><img src="/images/aws/aws-certified-cloud-practitioner(90x90).png" alt="AWS Cloud Practitioner" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/89723402-7735-417d-a106-f710c2f3b598/public_url" target="_blank"><img src="/images/aws/aws-certified-advanced-networking-specialty(90x90).png" alt="AWS Advanced Networking Specialty" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/7fa93a22-d41f-4bb4-b448-6a2eed1bd848/public_url" target="_blank"><img src="/images/aws/aws-certified-security-specialty(90x90).png" alt="AWS Security Specialty" style="width:90px;height:90px;margin:0;" /></a>
+</div>
+{{< /accordionItem >}}
+
+{{< accordionItem title="🏅 AWS Certification Retired(4)" open="true" >}}
+<div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
 <a href="https://www.credly.com/badges/57be108d-6997-4334-aa63-257c4fb43a7e/public_url" target="_blank"><img src="/images/aws/aws-certified-database-specialty(90x90).png" alt="AWS Database Specialty" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/84364214-cac5-4050-841f-6ffac4f7f72f/public_url" target="_blank"><img src="/images/aws/aws-certified-data-analytics-specialty(90x90).png" alt="AWS Data Analytics Specialty" style="width:90px;height:90px;margin:0;" /></a>
-<a href="https://www.credly.com/badges/04670fe9-97f9-4762-b8ed-26ab5dc2faeb/public_url" target="_blank"><img src="/images/aws/aws-certified-sap-on-aws-specialty(90x90).png" alt="AWS SAP on AWS Specialty" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/ba825004-8b1a-49f8-a266-87d6b3fc8797/public_url" target="_blank"><img src="/images/aws/aws-certified-machine-learning-specialty(90x90).png" alt="AWS Machine Learning Specialty" style="width:90px;height:90px;margin:0;" /></a>
+<a href="https://www.credly.com/badges/04670fe9-97f9-4762-b8ed-26ab5dc2faeb/public_url" target="_blank"><img src="/images/aws/aws-certified-sap-on-aws-specialty(90x90).png" alt="AWS SAP on AWS Specialty" style="width:90px;height:90px;margin:0;" /></a>
 </div>
 {{< /accordionItem >}}
 
@@ -104,6 +113,12 @@ showTableOfContents: true
 <a href="https://www.credly.com/badges/4758de7e-52cc-4791-9507-467d83339965/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-data-analytics(90x90).png" alt="Cloud Quest: Data Analytics" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/bc5ebe9a-8942-41f4-bf16-4a99cb0f4a7d/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-networking(90x90).png" alt="Cloud Quest: Networking" style="width:90px;height:90px;margin:0;" /></a>
 <a href="https://www.credly.com/badges/78b39aff-083b-465a-a61a-38daff1d648d/public_url" target="_blank"><img src="/images/aws/aws-cloud-quest-machine-learning(90x90).png" alt="Cloud Quest: Machine Learning" style="width:90px;height:90px;margin:0;" /></a>
+</div>
+{{< /accordionItem >}}
+
+{{< accordionItem title="🧩 AWS Microcredentials (1)" >}}
+<div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
+<a href="https://www.credly.com/badges/c2bb6821-dec9-403a-9708-62ef4e1f4b3c/public_url" target="_blank"><img src="/images/aws/aws-serverless-demonstrated.png" alt="AWS Serverless Demonstrated" style="width:90px;height:90px;margin:0;" /></a>
 </div>
 {{< /accordionItem >}}
 
@@ -150,11 +165,11 @@ showTableOfContents: true
 {{< /accordionItem >}}
 
 {{< accordionItem title="📋 Other" >}}
-
-- [生成AIパスポート試験](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dy81TXUrTEF2VVA4VkdKTFBVaGpuUT09) (November 15, 2024)
-  - ![生成AIパスポート](../images/generative-ai-passport-logo-320.jpg)
-- 普通自動車第一種運転免許 / Driver's License
-
+<div style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;padding:0.5rem 0;">
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dy81TXUrTEF2VVA4VkdKTFBVaGpuUT09" target="_blank"><img src="/images/generative-ai-passport-logo-320.jpg" alt="Generative AI Passport" style="width:90px;height:90px;margin:0;" /></a>
+<a><img src="/images/sakura-cloud/1-1-basic-default.png" alt="Sakura Cloud Certification (Basic)" style="width:90px;height:90px;margin:0;" /></a>
+<a>普通自動車第一種運転免許 / Driver's License</a>
+</div>
 {{< /accordionItem >}}
 
 {{< /accordion >}}
@@ -172,11 +187,16 @@ TBD
 <!-- ① 職歴をタイムライン化 -->
 {{< timeline >}}
 
-{{< timelineItem icon="star" header="2025" badge="NTT DATA CCS" md="true" >}}
+{{< timelineItem icon="star" header="2026" badge="NTT DATA CCS" md="true" >}}
+- **AWS Community Builders(DevTools)**の認定更新(**2年目**)
+- 2026年10月、AWS社内勉強会4周年（開催実績：48 回）
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="2025" badge="NTT DATA CCS" md="true" >}}
 - **2025 AWS Top Engineers & All Certifications Engineers** 受賞
-- AWS Community Builders(DevTools)の認定（2025年の認定者1,007人、日本人は69人）
+- **AWS Community Builders(DevTools)**の認定（2025年の認定者1,007人、日本人は69人）
 - 2025年10月、AWS社内勉強会3周年（開催実績：36 回）
-- 社内で初のAWS BuilderCards体験会を主催
+- 社内で初のAWS BuilderCards体験会(1回目)を主催
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2024" badge="NTT DATA CCS" md="true" >}}
