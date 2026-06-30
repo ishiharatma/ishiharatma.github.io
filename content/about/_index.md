@@ -62,13 +62,13 @@ showTableOfContents: true
   - ![AWS CB](../images/aws/Community-Builder-LinkedIn-1400px-ALT-320.jpg)
   - [AWS Community Builders](https://aws.amazon.com/jp/developer/community/community-builders/) / [My Page](https://builder.aws.com/community/@issy929)
 
-- **Japan AWS Top Engineers (2024-25)**
+- **Japan AWS Top Engineers (2024-26)**
   - ![2024 Japan AWS Top Engineers](../images/aws/2024-Japan-AWS-Top-Engineers-Logo-320.jpg)
-  - [APN Blog 2024](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/) / [APN Blog 2025](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/)
+  - [APN Blog 2024](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/) / [APN Blog 2025](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/) / [APN Blog 2026](https://aws.amazon.com/jp/blogs/psa/2026-japan-aws-top-engineers/)
 
-- **Japan AWS All Certifications Engineers (2024-25)**
+- **Japan AWS All Certifications Engineers (2024-26)**
   - ![2024 Japan AWS All Certifications Engineers](../images/aws/2024-All-Certs-Logo-320.jpg)
-  - [APN Blog 2024](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/) / [APN Blog 2025](https://aws.amazon.com/jp/blogs/psa/2025-japan-all-aws-certifications-engineers/)
+  - [APN Blog 2024](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/) / [APN Blog 2025](https://aws.amazon.com/jp/blogs/psa/2025-japan-all-aws-certifications-engineers/) / [APN Blog 2026](https://aws.amazon.com/jp/blogs/psa/2026-japan-all-aws-certifications-engineers/)
 
 ---
 
@@ -189,38 +189,39 @@ TBD
 
 {{< timelineItem icon="star" header="2026" badge="NTT DATA CCS" md="true" >}}
 - 🏅 **AWS Community Builders(DevTools)** の認定更新(**2年目**)
-- 2026年10月、AWS社内勉強会4周年（開催実績：48 回）
-- 社内でAI活用のための相談コミュニティ「生成AIよもやま会」を発足
+- 🏅 **2026 AWS Top Engineers & All Certifications Engineers** 受賞
+- 2026年06月：社内でAI活用のための相談コミュニティ「生成AIよもやま会」を発足
+- 2026年10月：AWS社内勉強会4周年（開催実績：48 回）
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2025" badge="NTT DATA CCS" md="true" >}}
-- 🏅 **2025 AWS Top Engineers & All Certifications Engineers** 受賞
 - 🏅 **AWS Community Builders(DevTools)** の認定（2025年の認定者1,007人、日本人は69人）
-- 2025年10月、AWS社内勉強会3周年（開催実績：36 回）
+- 🏅 **2025 AWS Top Engineers & All Certifications Engineers** 受賞
+- 2025年10月：AWS社内勉強会3周年（開催実績：36 回）
 - 社内で初のAWS BuilderCards体験会(1回目)を主催
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2024" badge="NTT DATA CCS" md="true" >}}
 - ArcGIS Enterprise を AWS 上で構築・IaC 化
 - 🏅 社内初の **2024 AWS Top Engineers & All Certifications Engineers** 受賞
-- 受賞を受けた社内講演会の企画・登壇（参加者 100 名以上）
+- 2024年09月：受賞を受けた社内講演会の企画・登壇（参加者 100 名以上）
 - CCoE 設立活動に参加
 - 社内スペシャリスト制度の見直しに参画・助言
 - 社内 AWS 検証環境のアカウントセキュリティポリシー策定を支援
-- 2024年10月、AWS社内勉強会2周年（開催実績：24 回）
+- 2024年10月：AWS社内勉強会2周年（開催実績：24 回）
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2023" badge="NTT DATA CCS" md="true" >}}
 - オンプレ案件に早期レビュー環境としてAWS活用を提案・構築（遠隔顧客との月次レビューを実現）
 - Figma を導入してプロトタイプによる画面レビューの生産性を向上
 - 社内 AWS 案件のレビュー・相談を担当
-- 2023年10月、AWS社内勉強会1周年（開催実績：12 回）
+- 2023年10月：AWS社内勉強会1周年（開催実績：12 回）
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="2022" badge="NTT DATA CCS" md="true" >}}
 - eラーニング SaaS とのシングルサインオンに Keycloak を採用（Amazon ECS / Fargate）
 - **AWS CDK** による IaC を導入
-- 2022年10月、月次 AWS 社内勉強会を発足
+- 2022年10月：月次 AWS 社内勉強会を発足
 - Zenn での勉強会記事投稿を開始
 {{< /timelineItem >}}
 
