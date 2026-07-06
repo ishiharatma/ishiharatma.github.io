@@ -6,6 +6,8 @@ showTableOfContents: false
 ## Zenn
 
 <!-- zenn start -->
+- Jul 04 - [【初心者向け】Amazon VPC Lattice 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-vpc-lattice-overview)
+- Jul 04 - [【初心者向け】Amazon VPC 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-vpc-overview)
 - May 28 - [【AWS学習】AWS BuilderCards 2nd Edition 完全ガイド](https://zenn.dev/issy/articles/zenn-aws-buildercards)
 - May 20 - [【実例】AIは忘れる。だから仕様書に全部書く — GitHub Copilot を"記憶喪失"から救う6つのドキュメント管理術](https://zenn.dev/issy/articles/ai-spec-driven-development-knowhow)
 - May 11 - [【初心者向け】Amazon EBS 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ebs-overview)
@@ -24,8 +26,6 @@ showTableOfContents: false
 - Feb 02 - [【読書会】「AWSではじめる生成AI」12章：生成AIのマネージドサービス Amazon Bedrock](https://zenn.dev/issy/articles/aws-generative-ai-on-aws-12)
 - Sep 04 - [【実例】AWS WAFのIP制限を自動化！S3アップロードだけでホワイトリストを瞬時に更新！](https://zenn.dev/issy/articles/aws-waf-ip-whitelist-auto-updater)
 - Aug 22 - [【初心者向け】AWS IAM でのマルチアカウント管理入門！完全ガイド](https://zenn.dev/issy/articles/zenn-iam-multi-account)
-- Aug 22 - [【初心者向け】Aamazon GuardDuty Malware Protection for S3 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-guardduty-s3-malware-protection-overview)
-- Jul 22 - [【初心者向け】AWS CDK 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cdk-overview)
 <!-- zenn end -->
 
 ## Qiita
