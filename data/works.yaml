@@ -18,8 +18,8 @@
 
 - title: "AWS Summit Japan 2025 ミニステージスケジュールビューアー"
   description: "AWS Summit Japan 2025 のミニステージ 80 件をGoogleカレンダー風UIで表示。セッション詳細モーダル・Googleカレンダー連携に対応。Amazon Q CLI で実装と記事作成を実施。"
-  image: ""
-  tags: ["HTML", "JavaScript", "Amazon Q CLI", "GitHub Pages"]
+  image: "/images/works/aws-summit-2025-viewer.png"
+  tags: ["HTML", "JavaScript", "Amazon Q CLI", "GitHub Pages", "AWS Summit"]
   article:
     label: "Qiita"
     url: "https://qiita.com/issy929/items/0eee86eb730206041a00"
@@ -32,8 +32,8 @@
 
 - title: "JAWS DAYS 2026 タイムテーブルビューアー"
   description: "JAWS DAYS 2026 のタイムテーブルを見やすく表示するビューアー。公式サイトより直感的に確認できるUIを目指して作成。"
-  image: ""
-  tags: ["HTML", "JavaScript", "GitHub Pages"]
+  image: "/images/works/aws-jawsdays2026-timetable-unofficial.png"
+  tags: ["HTML", "JavaScript", "GitHub Pages", "JAWS"]
   article:
     label: "Qiita"
     url: "https://qiita.com/issy929/items/81b9fe3c8b2888aa4bee"
@@ -43,3 +43,14 @@
   repo:
     label: "GitHub"
     url: "https://github.com/ishiharatma/aws-jawsdays2026-timetable-unofficial"
+
+- title: "AWS VPC サブネット CIDR 計算ツール"
+  description: "AWS VPC のサブネット CIDR を計算するツール。VPC 設計時のサブネット分割を簡単に行える。"
+  image: "/images/works/aws-vpc-subnet-calculator.png"
+  tags: ["HTML", "JavaScript", "GitHub Pages", "AWS VPC"]
+  demo:
+    label: "Demo"
+    url: "https://ishiharatma.github.io/aws-vpc-subnet-calculator/"
+  repo:
+    label: "GitHub"
+    url: "https://github.com/ishiharatma/aws-vpc-subnet-calculator"
