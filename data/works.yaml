@@ -20,6 +20,7 @@
   description: "AWS Summit Japan 2025 のミニステージ 80 件をGoogleカレンダー風UIで表示。セッション詳細モーダル・Googleカレンダー連携に対応。Amazon Q CLI で実装と記事作成を実施。"
   image: "/images/works/aws-summit-2025-viewer.png"
   tags: ["HTML", "JavaScript", "Amazon Q CLI", "GitHub Pages", "AWS Summit"]
+  published: 2025-06-21
   article:
     label: "Qiita"
     url: "https://qiita.com/issy929/items/0eee86eb730206041a00"
@@ -34,6 +35,7 @@
   description: "JAWS DAYS 2026 のタイムテーブルを見やすく表示するビューアー。公式サイトより直感的に確認できるUIを目指して作成。"
   image: "/images/works/aws-jawsdays2026-timetable-unofficial.png"
   tags: ["HTML", "JavaScript", "GitHub Pages", "JAWS"]
+  published: 2026-02-12
   article:
     label: "Qiita"
     url: "https://qiita.com/issy929/items/81b9fe3c8b2888aa4bee"
@@ -48,6 +50,7 @@
   description: "AWS VPC のサブネット CIDR を計算するツール。VPC 設計時のサブネット分割を簡単に行える。"
   image: "/images/works/aws-vpc-subnet-calculator.png"
   tags: ["HTML", "JavaScript", "GitHub Pages", "AWS VPC"]
+  published: 2026-07-05
   demo:
     label: "Demo"
     url: "https://ishiharatma.github.io/aws-vpc-subnet-calculator/"
@@ -59,6 +62,7 @@
   description: "AWS CDK を使ったリファレンスアーキテクチャのサンプル集。各種 AWS サービスの構築例をコードで確認できる。"
   image: "/images/works/aws-cdk-reference-architectures.png"
   tags: ["AWS CDK", "TypeScript", "GitHub", "Architecture"]
+  published: 2024-11-02
   article:
     label: "Dev.to"
     url: "https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949"
@@ -73,6 +77,7 @@
   description: "AWS の各種サービスを学習するための解説記事集。サービスの概要や使い方をまとめたリソース。"
   image: "/images/works/aws-study.png"
   tags: ["AWS", "Study", "Articles"]
+  published: 2025-03-01
   article:
     label: "Zenn"
     url: "https://zenn.dev/issy"
