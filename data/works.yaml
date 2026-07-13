@@ -54,3 +54,31 @@
   repo:
     label: "GitHub"
     url: "https://github.com/ishiharatma/aws-vpc-subnet-calculator"
+
+- title: "AWS CDK Reference Architecture"
+  description: "AWS CDK を使ったリファレンスアーキテクチャのサンプル集。各種 AWS サービスの構築例をコードで確認できる。"
+  image: "/images/works/aws-cdk-reference-architectures.png"
+  tags: ["AWS CDK", "TypeScript", "GitHub", "Architecture"]
+  article:
+    label: "Dev.to"
+    url: "https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949"
+  demo:
+    label: "Demo"
+    url: "https://ishiharatma.github.io/aws-cdk-reference-architectures/"
+  repo:
+    label: "GitHub"
+    url: "https://github.com/ishiharatma/aws-cdk-reference-architectures"
+
+- title: "AWS Study"
+  description: "AWS の各種サービスを学習するための解説記事集。サービスの概要や使い方をまとめたリソース。"
+  image: "/images/works/aws-study.png"
+  tags: ["AWS", "Study", "Articles"]
+  article:
+    label: "Zenn"
+    url: "https://zenn.dev/issy"
+  demo:
+    label: "Demo"
+    url: "https://ishiharatma.github.io/aws-study/"
+  repo:
+    label: "GitHub"
+    url: "https://github.com/ishiharatma/aws-study"
