@@ -30,10 +30,10 @@ showTableOfContents: false
 
 ## Qiita
 <!-- qiita start -->
+- Jul 19 - [Transit Gateway用サブネットを"CIDRの末尾"に配置したい問題 — 既存ツールで解決できず自作した](https://qiita.com/issy929/items/4f023701102737d49f58)
 - May 25 - [さくらのクラウド検定アドバンスド──(07)デザインパターン](https://qiita.com/issy929/items/21a2f1dba9949abd19a9)
 - May 21 - [さくらのクラウド検定アドバンスド──(06)セキュリティとガバナンス](https://qiita.com/issy929/items/54cfe16d93275e03ce0a)
 - May 20 - [さくらのクラウド検定アドバンスド──(03)データベース](https://qiita.com/issy929/items/cd6faccee6e6d7222ed5)
-- May 20 - [さくらのクラウド検定アドバンスド──(04)コンテンツ配信](https://qiita.com/issy929/items/f10b6b832cbca6b0f21b)
 <!-- qiita end -->
 
 ## Dev.to
