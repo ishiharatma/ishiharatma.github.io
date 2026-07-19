@@ -30,10 +30,10 @@ showTableOfContents: false
 
 ## Qiita
 <!-- qiita start -->
+- Jul 19 - [さくらのクラウド検定アドバンスド──2026年第一回試験を終えて](https://qiita.com/issy929/items/5827cd672ad5582bacb2)
 - Jul 19 - [【セッション資料まとめ】2026/7/18 AWS CDK Conference Japan 2026](https://qiita.com/issy929/items/f8c5abf9f2e327bec8da)
 - Jul 19 - [Transit Gateway用サブネットを"CIDRの末尾"に配置したい問題 — 既存ツールで解決できず自作した](https://qiita.com/issy929/items/4f023701102737d49f58)
 - May 25 - [さくらのクラウド検定アドバンスド──(07)デザインパターン](https://qiita.com/issy929/items/21a2f1dba9949abd19a9)
-- May 21 - [さくらのクラウド検定アドバンスド──(06)セキュリティとガバナンス](https://qiita.com/issy929/items/54cfe16d93275e03ce0a)
 <!-- qiita end -->
 
 ## Dev.to
