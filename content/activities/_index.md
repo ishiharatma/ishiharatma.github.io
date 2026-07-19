@@ -38,6 +38,7 @@ showTableOfContents: false
 
 ## Dev.to
 <!-- devdotto start -->
+- Jul 19 - [The problem of putting Transit Gateway subnets at the "end" of a CIDR — existing tools couldn't solve it, so I built one myself](https://dev.to/aws-builders/the-problem-of-putting-transit-gateway-subnets-at-the-end-of-a-cidr-existing-tools-couldnt-5a97)
 - May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
 - Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
 - Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
@@ -49,7 +50,6 @@ showTableOfContents: false
 - Dec 07 - [AWS CDK 100 Drill Exercises #001: S3 Bucket Fundamentals —— From Default Settings to Practical Customization](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-001-s3-bucket-fundamentals-from-default-settings-to-practical-1hmd)
 - Dec 02 - [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
 - Nov 25 - [Mastering AWS CDK #3 - AWS CDK Development: Best Practices and Workflow](https://dev.to/aws-builders/mastering-aws-cdk-3-aws-cdk-development-best-practices-and-workflow-1f37)
-- Sep 10 - [AI-Powered Code Reviews with OpenRouter - Complete PR-Agent Setup Guide](https://dev.to/issy929/ai-powered-code-reviews-with-openrouter-complete-pr-agent-setup-guide-5m3)
 <!-- devdotto end -->
 
 ## GitHub
