@@ -15,6 +15,20 @@
 #   repo        : ソースコードのリンク
 #     label     : ボタンラベル（例: "GitHub"）
 #     url       : URL
+- title: "AWS or Amazon Quiz"
+  description: "AWS または Amazon に関するクイズを出題するWebアプリ。問題はランダムに出題され、正解数をカウントして表示。"
+  image: "/images/works/aws-or-amazon-quiz.png"
+  tags: ["HTML", "JavaScript", "GitHub Pages"]
+  published: 2026-07-23
+  article:
+    label: "Qiita"
+    url: "https://qiita.com/issy929/items/fc5d0b416328c8608a10"
+  demo:
+    label: "Demo"
+    url: "https://ishiharatma.github.io/aws-or-amazon-quiz/"
+  repo:
+    label: "GitHub"
+    url: "https://github.com/ishiharatma/aws-or-amazon-quiz"
 
 - title: "AWS Summit Japan 2025 ミニステージスケジュールビューアー"
   description: "AWS Summit Japan 2025 のミニステージ 80 件をGoogleカレンダー風UIで表示。セッション詳細モーダル・Googleカレンダー連携に対応。Amazon Q CLI で実装と記事作成を実施。"
