@@ -38,6 +38,7 @@ showTableOfContents: false
 
 ## Dev.to
 <!-- devdotto start -->
+- Jul 28 - [AWS CDK 100 Drill Exercises #008: CloudFront VPC Origin — Reaching an Internal ALB Directly, and Designing an Incident-Response Escape Hatch](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-008-cloudfront-vpc-origin-reaching-an-internal-alb-directly-and-1cd1)
 - Jul 23 - [AWS or Amazon Quiz — How Well Do You Know AWS Service Prefixes?](https://dev.to/aws-builders/aws-or-amazon-quiz-how-well-do-you-know-aws-service-prefixes-7n1)
 - Jul 19 - [The problem of putting Transit Gateway subnets at the "end" of a CIDR — existing tools couldn't solve it, so I built one myself](https://dev.to/aws-builders/the-problem-of-putting-transit-gateway-subnets-at-the-end-of-a-cidr-existing-tools-couldnt-5a97)
 - May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
@@ -49,7 +50,6 @@ showTableOfContents: false
 - Dec 09 - [AWS CDK 100 Drill Exercises #002: IAM Basics —— Users, Roles, and Secure Password Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-002-iam-basics-users-roles-and-secure-password-management-1npa)
 - Dec 07 - [AWS CDK 100 Drill Exercises: Index & Progress (#001-#010)](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-index-progress-001-010-27bk)
 - Dec 07 - [AWS CDK 100 Drill Exercises #001: S3 Bucket Fundamentals —— From Default Settings to Practical Customization](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-001-s3-bucket-fundamentals-from-default-settings-to-practical-1hmd)
-- Dec 02 - [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
 <!-- devdotto end -->
 
 ## GitHub
