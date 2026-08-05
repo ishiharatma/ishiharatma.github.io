@@ -31,7 +31,7 @@ showTableOfContents: false
 ## Qiita
 <!-- qiita start -->
 - Jul 23 - [AWS or Amazon Quiz](https://qiita.com/issy929/items/fc5d0b416328c8608a10)
-- Jul 19 - [さくらのクラウド検定アドバンスド──2026年第一回試験を終えて](https://qiita.com/issy929/items/5827cd672ad5582bacb2)
+- Jul 19 - [さくらのクラウド検定アドバンスド、合格率50%の試験で見えた「得点率だけでは分からない弱点」](https://qiita.com/issy929/items/5827cd672ad5582bacb2)
 - Jul 19 - [【セッション資料まとめ】2026/7/18 AWS CDK Conference Japan 2026](https://qiita.com/issy929/items/f8c5abf9f2e327bec8da)
 - Jul 19 - [Transit Gateway用サブネットを"CIDRの末尾"に配置したい問題 — 既存ツールで解決できず自作した](https://qiita.com/issy929/items/4f023701102737d49f58)
 <!-- qiita end -->
