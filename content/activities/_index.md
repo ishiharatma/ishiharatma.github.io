@@ -38,6 +38,8 @@ showTableOfContents: false
 
 ## Dev.to
 <!-- devdotto start -->
+- Aug 17 - [AWS CDK 100 Drill Exercises #010: Budget Alerts & Cost Anomaly Detection — 5 FinOps Alerting Patterns in CDK](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-010-budget-alerts-cost-anomaly-detection-5-finops-alerting-23g2)
+- Aug 17 - [AWS CDK 100 Drill Exercises #009: CloudWatch Logs S3 Archive — Comparing 3 Log Archive Patterns in One Repository](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-009-cloudwatch-logs-s3-archive-comparing-3-log-archive-patterns-42g0)
 - Jul 28 - [AWS CDK 100 Drill Exercises #008: CloudFront VPC Origin — Reaching an Internal ALB Directly, and Designing an Incident-Response Escape Hatch](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-008-cloudfront-vpc-origin-reaching-an-internal-alb-directly-and-1cd1)
 - Jul 23 - [AWS or Amazon Quiz — How Well Do You Know AWS Service Prefixes?](https://dev.to/aws-builders/aws-or-amazon-quiz-how-well-do-you-know-aws-service-prefixes-7n1)
 - Jul 19 - [The problem of putting Transit Gateway subnets at the "end" of a CIDR — existing tools couldn't solve it, so I built one myself](https://dev.to/aws-builders/the-problem-of-putting-transit-gateway-subnets-at-the-end-of-a-cidr-existing-tools-couldnt-5a97)
@@ -48,8 +50,6 @@ showTableOfContents: false
 - Dec 24 - [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
 - Dec 21 - [AWS CDK 100 Drill Exercises #003: VPC Basics — From Network Configuration to Security](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-003-vpc-basics-from-network-configuration-to-security-4a43)
 - Dec 09 - [AWS CDK 100 Drill Exercises #002: IAM Basics —— Users, Roles, and Secure Password Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-002-iam-basics-users-roles-and-secure-password-management-1npa)
-- Dec 07 - [AWS CDK 100 Drill Exercises: Index & Progress (#001-#010)](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-index-progress-001-010-27bk)
-- Dec 07 - [AWS CDK 100 Drill Exercises #001: S3 Bucket Fundamentals —— From Default Settings to Practical Customization](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-001-s3-bucket-fundamentals-from-default-settings-to-practical-1hmd)
 <!-- devdotto end -->
 
 ## GitHub
