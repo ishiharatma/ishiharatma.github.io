@@ -6,6 +6,8 @@ showTableOfContents: false
 ## Zenn
 
 <!-- zenn start -->
+- Sep 27 - [【初心者向け】Amazon Kinesis Data Streams 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-kinesisdatastreams-overview)
+- Sep 27 - [【初心者向け】Amazon EFS 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-efs-overview)
 - Sep 01 - [【初心者向け】AWS Cost Explorer 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cost-explorer-overview)
 - Sep 01 - [【初心者向け】Amazon Cognito 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cognito-overview)
 - Sep 01 - [【中級者向け】Amazon EC2 応用！完全ガイド - Nitro・キャパシティ確保・Auto Scaling](https://zenn.dev/issy/articles/zenn-ec2-advanced)
@@ -24,8 +26,6 @@ showTableOfContents: false
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(3/6) DeepDive](https://zenn.dev/issy/articles/zenn-team-03-deepdive)
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(2/6) デプロイ](https://zenn.dev/issy/articles/zenn-team-02-deployment-guide)
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(1/6) 概要](https://zenn.dev/issy/articles/zenn-team-01-overview)
-- Dec 01 - [【初心者向け】AWS Database Migration Service(DMS) 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-dms-overview)
-- Sep 10 - [【アップデート】CloudFrontの署名付きURLでECDSA鍵を利用可能に！──実測で91%高速化、55%のURL短縮効果](https://zenn.dev/issy/articles/update-aws-cloudfront-ecdsa-signed-urls)
 <!-- zenn end -->
 
 ## Qiita
