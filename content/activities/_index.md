@@ -38,6 +38,7 @@ showTableOfContents: false
 
 ## Dev.to
 <!-- devdotto start -->
+- Oct 22 - [Testing the AWS WAF Mitigations for PHP2Shell on Both CloudFront and an ALB](https://dev.to/aws-builders/testing-the-aws-waf-mitigations-for-php2shell-on-both-cloudfront-and-an-alb-28ng)
 - Aug 29 - [AWS CDK 100 Drill Exercises #013: CloudFront S3 Static Website — Serving a Private Bucket over HTTPS with OAC and Cross-Region WAF](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-013-cloudfront-s3-static-website-serving-a-private-bucket-over-413g)
 - Aug 29 - [AWS CDK 100 Drill Exercises #012: S3 Static Web Site — Getting a "Public" Bucket Policy Past Block Public Access](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-012-s3-static-web-site-getting-a-public-bucket-policy-past-block-3b18)
 - Aug 29 - [AWS CDK 100 Drill Exercises #011: A CodePipeline for CloudFront & S3 — and a self-reference bug](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-011-a-codepipeline-for-cloudfront-s3-and-a-self-reference-bug-22ml)
@@ -49,7 +50,6 @@ showTableOfContents: false
 - Jul 19 - [The problem of putting Transit Gateway subnets at the "end" of a CIDR — existing tools couldn't solve it, so I built one myself](https://dev.to/aws-builders/the-problem-of-putting-transit-gateway-subnets-at-the-end-of-a-cidr-existing-tools-couldnt-5a97)
 - May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
 - Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
-- Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
 <!-- devdotto end -->
 
 ## GitHub
