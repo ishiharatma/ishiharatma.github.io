@@ -6,6 +6,7 @@ showTableOfContents: false
 ## Zenn
 
 <!-- zenn start -->
+- Oct 22 - [PHP2Shell の AWS WAF 緩和ルールを CloudFront と ALB の両方で実機検証した](https://zenn.dev/issy/articles/aws-waf-php2shell-mitigation)
 - Oct 19 - [Lambda Web Functions を CDK でデプロイして、多重実行・スロットリング・リリースを検証した](https://zenn.dev/issy/articles/aws-lambda-web-functions-express)
 - Sep 27 - [【初心者向け】Amazon Kinesis Data Streams 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-kinesisdatastreams-overview)
 - Sep 27 - [【初心者向け】Amazon EFS 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-efs-overview)
@@ -25,7 +26,6 @@ showTableOfContents: false
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(4/6) 申請者/承認者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-01-requestor-and-approver)
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(3/6) DeepDive](https://zenn.dev/issy/articles/zenn-team-03-deepdive)
-- Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(2/6) デプロイ](https://zenn.dev/issy/articles/zenn-team-02-deployment-guide)
 <!-- zenn end -->
 
 ## Qiita
