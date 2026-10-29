@@ -6,6 +6,7 @@ showTableOfContents: false
 ## Zenn
 
 <!-- zenn start -->
+- Oct 29 - [CodeCommit の PR を Bedrock で AI レビュー、10 週間・986 回運用して分かったコストと限界](https://zenn.dev/issy/articles/aws-codecommit-pr-agent-bedrock-review)
 - Oct 22 - [PHP2Shell の AWS WAF 緩和ルールを CloudFront と ALB の両方で実機検証した](https://zenn.dev/issy/articles/aws-waf-php2shell-mitigation)
 - Oct 19 - [Lambda Web Functions を CDK でデプロイして、多重実行・スロットリング・リリースを検証した](https://zenn.dev/issy/articles/aws-lambda-web-functions-express)
 - Sep 27 - [【初心者向け】Amazon Kinesis Data Streams 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-kinesisdatastreams-overview)
@@ -25,7 +26,6 @@ showTableOfContents: false
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(6/6) 監査者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-03-auditor)
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(4/6) 申請者/承認者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-01-requestor-and-approver)
-- Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(3/6) DeepDive](https://zenn.dev/issy/articles/zenn-team-03-deepdive)
 <!-- zenn end -->
 
 ## Qiita
